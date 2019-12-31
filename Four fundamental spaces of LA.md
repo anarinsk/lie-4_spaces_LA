@@ -47,7 +47,7 @@ $$
 
 ## Column picture 
 
-이제 이 문제를 컬럼으로 보자. 행렬을 열로 보면, $(2 \times 1)$ 벡터다. 이 벡터를 좌표로 나타나면 이제 $x$, $y$는 식의 방정식 우변의 벡터를 얻는 데 필요한 두 행 벡터의 가중치의 역할을 한다. 아래 그림을 보자. 
+이제 이 문제를 컬럼으로 보자. 행렬을 열로 보면, $(2 \times 1)$ 벡터다. 이 벡터를 좌표로 나타나면 이제 $x$, $y$는 식의 방정식 우변의 벡터를 얻는 데 필요한 두 행 벡터에 가중치를 부여하는 역할을 한다. 아래 그림을 보자. 
 
 <p align="center"><kbd>
   <img src="https://github.com/anarinsk/lie-4_spaces_LA/blob/master/assets/imgs/column-picture.png?raw=true" width="600">
@@ -175,5 +175,5 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI3ODIxMTUsLTgwMDQxMjY2OV19
+eyJoaXN0b3J5IjpbLTg4MzI4NzgxLC04MDA0MTI2NjldfQ==
 -->
