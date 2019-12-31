@@ -104,7 +104,7 @@ $$
 - $A x_r = \underset{(m \times 1)}{b_c}$
 - $A x_n = \boldsymbol{0}$
 - $A (x_r + x_n) = b_c$
-- $x_r^T x_n = \boldsymbol{0}$
+- $x_r^T x_n = 0$
 
 위 관계에서 $b_c$, $\boldsymbol{0}$는 모두 열 공간에 존재하는 벡터들이므로 $(m \times 1)$의 크기를 지닌다는 점에 유의하자. 
 
@@ -137,7 +137,7 @@ $$
 - $A^T x_c = \underset{(n \times 1)}{b_r}$
 - $A^T x_n = \boldsymbol{0}$
 - $A (x_c + x_n) = b_r$
-- $x_c^T x_n = \boldsymbol{0}$
+- $x_c^T x_n = 0$
 
 ## Exchange of row and column 
 
@@ -181,6 +181,6 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjMwNzY3NiwxNTk3MDY1MzE4LC02ND
-k4MTYzNTgsMTQwNTE1MzgyMiwtODAwNDEyNjY5XX0=
+eyJoaXN0b3J5IjpbNDE3MjMzOTY2LDE1OTcwNjUzMTgsLTY0OT
+gxNjM1OCwxNDA1MTUzODIyLC04MDA0MTI2NjldfQ==
 -->
