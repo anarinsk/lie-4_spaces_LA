@@ -74,8 +74,10 @@ $$
 그리고 열 공간의 관점으로 보면 행렬을 '함수'로 이해하는 길이 열린다. 
 
 $$
-\underset{(m \times n)}{A} \underset{(n \times}{x} = b
+\underset{(m \times n)}{A} \underset{(n \times 1)}{x} = \underset{(m \times 1)}{b}
 $$
+
+이때 투입행렬은 $(n \times 1)$의 벡터 $x$다. 산출 행렬은 $(n \times 1)$의 벡터 $b$다. 이렇게 보면 행렬 $A$는 특정한 방식으로(
 
 # Big Picture of Linear Algebra 
 
@@ -201,7 +203,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTk3MjQ5NzcsNDE3MjMzOTY2LDE1OT
-cwNjUzMTgsLTY0OTgxNjM1OCwxNDA1MTUzODIyLC04MDA0MTI2
-NjldfQ==
+eyJoaXN0b3J5IjpbMzg3MDEyMDgwLDQxNzIzMzk2NiwxNTk3MD
+Y1MzE4LC02NDk4MTYzNTgsMTQwNTE1MzgyMiwtODAwNDEyNjY5
+XX0=
 -->
