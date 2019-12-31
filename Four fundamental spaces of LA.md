@@ -172,10 +172,12 @@ $$
 1. 벡터의 방향을 돌린다 ($V^*$)  
 2. 특성값 행렬($\Sigma$)로 차원을 바꾸면서 각 축의 방향을 조절한다.  
 3. 마지막으로 $U$를 통해서 차원을 바꿔준다. 
-<br>
+
+&nbsp;
 <br>
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTE1MzgyMiwtODAwNDEyNjY5XX0=
+eyJoaXN0b3J5IjpbLTY0OTgxNjM1OCwxNDA1MTUzODIyLC04MD
+A0MTI2NjldfQ==
 -->
