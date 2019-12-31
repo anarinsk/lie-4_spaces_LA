@@ -64,6 +64,8 @@ $$
 " width="800">
 </kbd></p>
 
+언감생심 $n(>4)$ 차원을 도해하는 것은 불가능하다. 물론 열 
+
 # Big Picture of Linear Algebra 
 
 기본적으로 행렬은 함수다. 즉, $(m \times n)$ 행렬이 있다면, 이는 $(n \times 1)$의 투입 벡터를 $(m \times 1)$의 산출 벡터로 바꾸는 역할을 한다. $A x = b$는 $f(x) =b$로 이해하면 좋다. 다만 차원이 임의의 자연수일 뿐이다. 
@@ -188,7 +190,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQwMDA4NzEsNDE3MjMzOTY2LDE1OT
-cwNjUzMTgsLTY0OTgxNjM1OCwxNDA1MTUzODIyLC04MDA0MTI2
-NjldfQ==
+eyJoaXN0b3J5IjpbMTY4MDEzOTMxMSw0MTcyMzM5NjYsMTU5Nz
+A2NTMxOCwtNjQ5ODE2MzU4LDE0MDUxNTM4MjIsLTgwMDQxMjY2
+OV19
 -->
