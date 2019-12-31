@@ -55,7 +55,14 @@ $$
 
 ## Which of two? 
 
-둘 다 쓸모가 있는 관점이지만 열 공간으로 보는 관점이 몇 가지 점에서 수학적으로 좋다. 우선, 열 공간으로 보게 되면 계산에 동원되는 모든 대상들이 벡터 공간에 위치하게 된다. 벡터 공간은 반드시 $\boldsymbol{0}$를 포함하게 된다. 행 공간에서는 이게 가능하다. 투입과 산출이 모두 벡터로 표현되고 투입의 선형 결합을 통해 산출을 표현하게 되는 구조다. 그런데, 열 공간의 관점에서는 이런 벡터 공간의 수학적인 결과를 활용하기 힘들다. 
+둘 다 쓸모가 있는 관점이지만 열 공간으로 보는 관점이 몇 가지 점에서 수학적으로 좋다. 우선, 열 공간으로 보게 되면 계산에 동원되는 모든 대상들이 벡터 공간에 위치하게 된다. 벡터 공간은 반드시 $\boldsymbol{0}$를 포함하게 된다. 행 공간에서는 이게 가능하다. 투입과 산출이 모두 벡터로 표현되고 투입의 선형 결합을 통해 산출을 표현하게 되는 구조다. 
+
+그런데, 열 공간의 관점에서는 이런 벡터 공간의 수학적인 결과를 활용하기 힘들다. 2차원 벡터까지는 평면에 도해할 수 있지만 3차원만 되도 애로사항이 슬슬 생긴다. 
+
+<p align="center"><kbd>
+  <img src="https://saylordotorg.github.io/text_intermediate-algebra/section_06/7459f0f0ab8b4fef9fb707a49ccbc0ae.png
+" width="800">
+</kbd></p>
 
 # Big Picture of Linear Algebra 
 
@@ -181,6 +188,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3MjMzOTY2LDE1OTcwNjUzMTgsLTY0OT
-gxNjM1OCwxNDA1MTUzODIyLC04MDA0MTI2NjldfQ==
+eyJoaXN0b3J5IjpbLTEwOTQwMDA4NzEsNDE3MjMzOTY2LDE1OT
+cwNjUzMTgsLTY0OTgxNjM1OCwxNDA1MTUzODIyLC04MDA0MTI2
+NjldfQ==
 -->
