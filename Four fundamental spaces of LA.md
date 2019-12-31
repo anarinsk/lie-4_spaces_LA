@@ -64,12 +64,14 @@ $$
 " width="800">
 </kbd></p>
 
-언감생심 $n(>4)$ 차원을 도해하는 것은 불가능하다. 물론 열 공간의 관점을 취한다고 해도 정확한 도해가 가능한 것은 아니다. 하지만 벡터 공간 안에서 정확하게 개념을 나타낼 수는 있다. 아래 그림처럼 보통 벡터를 표현할 때 $$
+언감생심 $n(>4)$ 차원을 도해하는 것은 불가능하다. 물론 열 공간의 관점을 취한다고 해도 정확한 도해가 가능한 것은 아니다. 하지만 벡터 공간 안에서 정확하게 개념을 나타낼 수는 있다. 아래 그림처럼 보통 벡터를 표현할 때 $\boldsymbol{0}$를 중심으로 벡터의 기호를 적는다. 적어도 그림상으로 벡터 스페이스 위에서 더하기와 곱하기를 표기하는 데 무리가 없다. 
 
 <p align="center"><kbd>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Vector-addition-and-scaling.svg/2880px-Vector-addition-and-scaling.svg.png
 " width="500">
 </kbd></p>
+
+그리고 열 공간의 관점으로 보면 행렬을 '함수'로 이해하는 
 
 # Big Picture of Linear Algebra 
 
@@ -195,7 +197,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDUyMTg3OSw0MTcyMzM5NjYsMTU5Nz
+eyJoaXN0b3J5IjpbLTMwMDkxMzg1Nyw0MTcyMzM5NjYsMTU5Nz
 A2NTMxOCwtNjQ5ODE2MzU4LDE0MDUxNTM4MjIsLTgwMDQxMjY2
 OV19
 -->
