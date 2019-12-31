@@ -68,10 +68,14 @@ $$
 
 <p align="center"><kbd>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Vector-addition-and-scaling.svg/2880px-Vector-addition-and-scaling.svg.png
-" width="500">
+" width="450">
 </kbd></p>
 
-그리고 열 공간의 관점으로 보면 행렬을 '함수'로 이해하는 
+그리고 열 공간의 관점으로 보면 행렬을 '함수'로 이해하는 길이 열린다. 
+
+$$
+\underset{(m \times n)}{A} \underset{(n \times}{x} = b
+$$
 
 # Big Picture of Linear Algebra 
 
@@ -197,7 +201,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDkxMzg1Nyw0MTcyMzM5NjYsMTU5Nz
-A2NTMxOCwtNjQ5ODE2MzU4LDE0MDUxNTM4MjIsLTgwMDQxMjY2
-OV19
+eyJoaXN0b3J5IjpbLTEwOTk3MjQ5NzcsNDE3MjMzOTY2LDE1OT
+cwNjUzMTgsLTY0OTgxNjM1OCwxNDA1MTUzODIyLC04MDA0MTI2
+NjldfQ==
 -->
