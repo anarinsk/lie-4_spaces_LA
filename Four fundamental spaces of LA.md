@@ -102,9 +102,7 @@ $$
 
 # Big Picture of Linear Algebra 
 
-기본적으로 행렬은 함수다. 즉, $(m \times n)$ 행렬이 있다면, 이는 $(n \times 1)$의 투입 벡터를 $(m \times 1)$의 산출 벡터로 바꾸는 역할을 한다. $A x = b$는 $f(x) =b$로 이해하면 좋다. 다만 차원이 임의의 자연수일 뿐이다. 
-
-마찬가지로 $A^T$는 $(m \times 1)$ 투입 벡터를 $(n \times 1)$ 산출 벡터로 바꾸는 역할을 한다. 이들 사이에 어떤 관계가 존재할까? 이를 나타내는 것이 길버트 스트랭(Gibert Strang) 선생이 말한 선형대수의 '큰 그림'이다. 아래 그림을 보자. 
+다시 강조하지만 기본적으로 행렬은 함수다. 마찬가지로 $A^T$는 $(m \times 1)$ 투입 벡터를 $(n \times 1)$ 산출 벡터로 바꾸는 역할을 한다. 이들 사이에 어떤 관계가 존재할까? 이를 나타내는 것이 길버트 스트랭(Gibert Strang) 선생이 말한 선형대수의 '큰 그림'이다. 아래 그림을 보자. 
 
 <p align="center"><kbd>
   <img src="https://i.stack.imgur.com/dfZND.png" width="550">
@@ -224,7 +222,8 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODE1MjE3MiwtMTk4MzQ2MzU4NCwtNz
-E0MTIyNTg1LDQxNzIzMzk2NiwxNTk3MDY1MzE4LC02NDk4MTYz
-NTgsMTQwNTE1MzgyMiwtODAwNDEyNjY5XX0=
+eyJoaXN0b3J5IjpbLTcyNDcwNjk4MywxMDM4MTUyMTcyLC0xOT
+gzNDYzNTg0LC03MTQxMjI1ODUsNDE3MjMzOTY2LDE1OTcwNjUz
+MTgsLTY0OTgxNjM1OCwxNDA1MTUzODIyLC04MDA0MTI2NjldfQ
+==
 -->
