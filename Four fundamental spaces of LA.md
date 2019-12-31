@@ -61,7 +61,7 @@ $$
 
 <p align="center"><kbd>
   <img src="https://saylordotorg.github.io/text_intermediate-algebra/section_06/7459f0f0ab8b4fef9fb707a49ccbc0ae.png
-" width="800">
+" width="600">
 </kbd></p>
 
 언감생심 $n(>4)$ 차원을 도해하는 것은 불가능하다. 물론 열 공간의 관점을 취한다고 해도 정확한 도해가 가능한 것은 아니다. 하지만 벡터 공간 안에서 정확하게 개념을 나타낼 수는 있다. 아래 그림처럼 보통 벡터를 표현할 때 $\boldsymbol{0}$를 중심으로 벡터의 기호를 적는다. 적어도 그림상으로 벡터 스페이스 위에서 더하기와 곱하기를 표기하는 데 무리가 없다. 
@@ -99,7 +99,7 @@ $$
 마찬가지로 $A^T$는 $(m \times 1)$ 투입 벡터를 $(n \times 1)$ 산출 벡터로 바꾸는 역할을 한다. 이들 사이에 어떤 관계가 존재할까? 이를 나타내는 것이 길버트 스트랭(Gibert Strang) 선생이 말한 선형대수의 '큰 그림'이다. 아래 그림을 보자. 
 
 <p align="center"><kbd>
-  <img src="https://i.stack.imgur.com/dfZND.png" width="600">
+  <img src="https://i.stack.imgur.com/dfZND.png" width="550">
 </kbd></p>
 
 그림 자체로 그냥 이해가 간다. 열 공간으로 이해하는 습관이 들었다면, 그림이 뒤집혀야 하지 않나, 싶겠지만 앞서 보았던 연립방정식처럼 $A x = b$의 형태로 이해하면 좋다.  
@@ -216,7 +216,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzA0NzE1LDQxNzIzMzk2NiwxNTk3MD
-Y1MzE4LC02NDk4MTYzNTgsMTQwNTE1MzgyMiwtODAwNDEyNjY5
-XX0=
+eyJoaXN0b3J5IjpbLTcxNDEyMjU4NSw0MTcyMzM5NjYsMTU5Nz
+A2NTMxOCwtNjQ5ODE2MzU4LDE0MDUxNTM4MjIsLTgwMDQxMjY2
+OV19
 -->
