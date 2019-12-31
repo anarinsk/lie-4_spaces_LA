@@ -83,9 +83,17 @@ $$
 A = 
 \begin{bmatrix}
 c_1, ~\dotsc~, c_n
-\end{bmatrix}
+\end{bmatrix},~\text{where}
 $$
 
+$$
+c_i = 
+\begin{bmatrix}
+a_1i \\
+\vdots \\
+a_
+\end{bmatrix}
+$$
 이때, 투입 벡터 $x$는 아래를 열 벡터들을 조합해 $b$를 만들 수 있는 가중치를 찾는 문제가 된다. 
 
 $$
@@ -216,7 +224,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM0NjM1ODQsLTcxNDEyMjU4NSw0MT
-cyMzM5NjYsMTU5NzA2NTMxOCwtNjQ5ODE2MzU4LDE0MDUxNTM4
-MjIsLTgwMDQxMjY2OV19
+eyJoaXN0b3J5IjpbLTg1OTY3NTgzNCwtMTk4MzQ2MzU4NCwtNz
+E0MTIyNTg1LDQxNzIzMzk2NiwxNTk3MDY1MzE4LC02NDk4MTYz
+NTgsMTQwNTE1MzgyMiwtODAwNDEyNjY5XX0=
 -->
