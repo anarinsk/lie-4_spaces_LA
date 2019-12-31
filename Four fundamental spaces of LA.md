@@ -170,7 +170,7 @@ $$
 기본적으로 행렬은 함수다. 즉 어떤 벡터의 변형이다. $M$에 투입되는 $(n \times 1)$의 벡터 $x$가 있다고 하자.  
 
 1. 벡터의 방향을 돌린다 ($V^*$)  
-2. 특성값 행렬($\Sigma$)로 차원을 바꾸면서 각 축의 방향을 조절한다.  
+2. 특성값 행렬($\Sigma$)로 차원을 바꾸면서 좌표축의 크기를 조절한다.  
 3. 마지막으로 $U$를 통해서 차원을 바꿔준다. 
 
 &nbsp;
@@ -178,6 +178,6 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0OTgxNjM1OCwxNDA1MTUzODIyLC04MD
-A0MTI2NjldfQ==
+eyJoaXN0b3J5IjpbMjE0MDg3NjYzMywtNjQ5ODE2MzU4LDE0MD
+UxNTM4MjIsLTgwMDQxMjY2OV19
 -->
