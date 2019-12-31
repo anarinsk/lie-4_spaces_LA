@@ -119,6 +119,9 @@ c_1, ~\cdots~, c_n
 $$
 
 - 열 공간의 영 공간, 좌 영공간(left nullspace) 역시 $\mathbb{R}^m$에 속한다. 이는 $A^T x = 0$에 의해 정의된다. 
+- 
+### Orthogonality of column space and left null space 
+
 - 나머지 과정은 비슷하게 전개할 수 있다. 열 공간 $\mathcal{C}$의 정의는 다음과 같다. 
 
 $$
@@ -132,9 +135,9 @@ $$
 $$
 
 - $A^T x_c = \underset{(n \times 1)}{b_r}$
-- $A^c x_n = \boldsymbol{0}$
-- $A (x_c + x_c) = b_r$
-- $x_r^T x_n = \boldsymbol{0}$
+- $A^T x_n = \boldsymbol{0}$
+- $A (x_c + x_n) = b_r$
+- $x_c^T x_n = \boldsymbol{0}$
 
 ## Exchange of row and column 
 
@@ -178,6 +181,6 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzA2NTMxOCwtNjQ5ODE2MzU4LDE0MD
-UxNTM4MjIsLTgwMDQxMjY2OV19
+eyJoaXN0b3J5IjpbLTE1MjMwNzY3NiwxNTk3MDY1MzE4LC02ND
+k4MTYzNTgsMTQwNTE1MzgyMiwtODAwNDEyNjY5XX0=
 -->
