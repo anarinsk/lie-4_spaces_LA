@@ -36,7 +36,7 @@ $$
 
 ## Row picture 
 
-행으로 이해해보자. 이게 사실 우리에게 익숙한 방식이다. 이 차원 직선 두 개를 그리고 그 교점을 찾으면 되다. 이게 위 문제를 행으로 보는 관점이다. 아래 그림을 참고하자.[^1] (조교 분 모습을 잘라내지 못한 점 양해 부탁) 
+행으로 이해해보자. 이게 사실 우리에게 익숙한 방식이다. 이 차원 직선 두 개를 그리고 그 교점을 찾으면 되다. 이게 위 문제를 행으로 보는 관점이다. 아래 그림을 참고하자.[^1] (조교 분 모습을 가린 점은 양해 부탁) 
 
 [^1]: 그림의 출처는 [여기](https://www.youtube.com/watch?v=My5w4MXWBew)
 
@@ -222,8 +222,8 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDcwNjk4MywxMDM4MTUyMTcyLC0xOT
-gzNDYzNTg0LC03MTQxMjI1ODUsNDE3MjMzOTY2LDE1OTcwNjUz
-MTgsLTY0OTgxNjM1OCwxNDA1MTUzODIyLC04MDA0MTI2NjldfQ
-==
+eyJoaXN0b3J5IjpbLTY5OTAyMTk5MiwtNzI0NzA2OTgzLDEwMz
+gxNTIxNzIsLTE5ODM0NjM1ODQsLTcxNDEyMjU4NSw0MTcyMzM5
+NjYsMTU5NzA2NTMxOCwtNjQ5ODE2MzU4LDE0MDUxNTM4MjIsLT
+gwMDQxMjY2OV19
 -->
