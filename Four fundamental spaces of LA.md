@@ -77,7 +77,14 @@ $$
 \underset{(m \times n)}{A} \underset{(n \times 1)}{x} = \underset{(m \times 1)}{b}
 $$
 
-이때 투입행렬은 $(n \times 1)$의 벡터 $x$다. 산출 행렬은 $(n \times 1)$의 벡터 $b$다. 이렇게 보면 행렬 $A$는 특정한 방식으로(
+이때 투입행렬은 $(n \times 1)$의 벡터 $x$다. 산출 행렬은 $(n \times 1)$의 벡터 $b$다. 이렇게 보면 행렬 $A$는 특정한 방식으로(선형의 방식으로) $x$를 차원이 다른 벡터 b로 변환한다. 이때 $A$의 경우 
+
+$$
+A = 
+\begin{bmatrix}
+c_1, ~\dotsc~, c_n
+\end{bmatrix}
+$$
 
 # Big Picture of Linear Algebra 
 
@@ -203,7 +210,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3MDEyMDgwLDQxNzIzMzk2NiwxNTk3MD
+eyJoaXN0b3J5IjpbMjA4ODg4OTUxLDQxNzIzMzk2NiwxNTk3MD
 Y1MzE4LC02NDk4MTYzNTgsMTQwNTE1MzgyMiwtODAwNDEyNjY5
 XX0=
 -->
