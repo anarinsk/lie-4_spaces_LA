@@ -77,7 +77,7 @@ $$
 \underset{(m \times n)}{A} \underset{(n \times 1)}{x} = \underset{(m \times 1)}{b}
 $$
 
-이때 투입행렬은 $(n \times 1)$의 벡터 $x$다. 산출 행렬은 $(n \times 1)$의 벡터 $b$다. 이렇게 보면 행렬 $A$는 특정한 방식으로(선형의 방식으로) $x$를 차원이 다른 벡터 b로 변환한다. 이때 $A$의 경우 
+이때 투입행렬은 $(n \times 1)$의 벡터 $x$다. 산출 행렬은 $(n \times 1)$의 벡터 $b$ 다. 이렇게 보면 행렬 $A$는 특정한 방식으로(선형의 방식으로) $x$를 차원이 다른 벡터 b로 변환한다. 이때 $A$의 경우 
 
 $$
 A = 
@@ -86,7 +86,7 @@ c_1, ~\dotsc~, c_n
 \end{bmatrix}
 $$
 
-이때, 투입 벡터 $x$는 아래를 만족시키는 가중치를 찾는 문제가 된다. 
+이때, 투입 벡터 $x$는 아래를 열 벡터들을 조합해 $b$를 만들 수 있는 가중치를 찾는 문제가 된다. 
 
 $$
 A x = c_1 x_1 + c_2 x_2 + \dotsc + c_n x_n = b
@@ -216,7 +216,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDEyMjU4NSw0MTcyMzM5NjYsMTU5Nz
-A2NTMxOCwtNjQ5ODE2MzU4LDE0MDUxNTM4MjIsLTgwMDQxMjY2
-OV19
+eyJoaXN0b3J5IjpbLTE5ODM0NjM1ODQsLTcxNDEyMjU4NSw0MT
+cyMzM5NjYsMTU5NzA2NTMxOCwtNjQ5ODE2MzU4LDE0MDUxNTM4
+MjIsLTgwMDQxMjY2OV19
 -->
