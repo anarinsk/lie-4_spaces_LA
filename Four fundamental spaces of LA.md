@@ -64,7 +64,7 @@ $$
 " width="600">
 </kbd></p>
 
-언감생심 $n(/geq 4)$ 차원을 도해하는 것은 불가능하다. 물론 열 공간의 관점을 취한다고 해도 정확한 도해가 가능한 것은 아니다. 하지만 벡터 공간 안에서 정확하게 개념을 나타낼 수는 있다. 아래 그림처럼 보통 벡터를 표현할 때 $\boldsymbol{0}$를 중심으로 벡터의 기호를 적는다. 적어도 그림상으로 벡터 스페이스 위에서 더하기와 곱하기를 표기하는 데 무리가 없다. 
+언감생심 $n(\geq 4)$ 차원을 도해하는 것은 불가능하다. 물론 열 공간의 관점을 취한다고 해도 정확한 도해가 가능한 것은 아니다. 하지만 벡터 공간 안에서 정확하게 개념을 나타낼 수는 있다. 아래 그림처럼 보통 벡터를 표현할 때 $\boldsymbol{0}$를 중심으로 벡터의 기호를 적는다. 적어도 그림상으로 벡터 스페이스 위에서 더하기와 곱하기를 표기하는 데 무리가 없다. 
 
 <p align="center"><kbd>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Vector-addition-and-scaling.svg/2880px-Vector-addition-and-scaling.svg.png
@@ -222,8 +222,8 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0NzgyODQyLC02OTkwMjE5OTIsLTcyND
-cwNjk4MywxMDM4MTUyMTcyLC0xOTgzNDYzNTg0LC03MTQxMjI1
-ODUsNDE3MjMzOTY2LDE1OTcwNjUzMTgsLTY0OTgxNjM1OCwxND
-A1MTUzODIyLC04MDA0MTI2NjldfQ==
+eyJoaXN0b3J5IjpbLTU3MTM2ODkzOSwtNjk5MDIxOTkyLC03Mj
+Q3MDY5ODMsMTAzODE1MjE3MiwtMTk4MzQ2MzU4NCwtNzE0MTIy
+NTg1LDQxNzIzMzk2NiwxNTk3MDY1MzE4LC02NDk4MTYzNTgsMT
+QwNTE1MzgyMiwtODAwNDEyNjY5XX0=
 -->
