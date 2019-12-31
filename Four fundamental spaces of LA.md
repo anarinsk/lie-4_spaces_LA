@@ -77,7 +77,7 @@ $$
 \underset{(m \times n)}{A} \underset{(n \times 1)}{x} = \underset{(m \times 1)}{b}
 $$
 
-이때 투입행렬은 $(n \times 1)$의 벡터 $x$다. 산출 행렬은 $(n \times 1)$의 벡터 $b$ 다. 이렇게 보면 행렬 $A$는 특정한 방식으로(선형의 방식으로) $x$를 차원이 다른 벡터 b로 변환한다. 이때 $A$의 경우 
+이때 투입행렬은 $(n \times 1)$의 벡터 $x$다. 산출 행렬은 $(m \times 1)$의 벡터 $b$ 다. 이렇게 보면 행렬 $A$는 특정한 방식으로(선형의 방식으로) $x$를 차원이 다른 벡터 b로 변환한다. 이때 $A$의 경우 
 
 $$
 A = 
@@ -222,8 +222,8 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTM2ODkzOSwtNjk5MDIxOTkyLC03Mj
-Q3MDY5ODMsMTAzODE1MjE3MiwtMTk4MzQ2MzU4NCwtNzE0MTIy
-NTg1LDQxNzIzMzk2NiwxNTk3MDY1MzE4LC02NDk4MTYzNTgsMT
-QwNTE1MzgyMiwtODAwNDEyNjY5XX0=
+eyJoaXN0b3J5IjpbMzY4Mzk4Nzc0LC02OTkwMjE5OTIsLTcyND
+cwNjk4MywxMDM4MTUyMTcyLC0xOTgzNDYzNTg0LC03MTQxMjI1
+ODUsNDE3MjMzOTY2LDE1OTcwNjUzMTgsLTY0OTgxNjM1OCwxND
+A1MTUzODIyLC04MDA0MTI2NjldfQ==
 -->
