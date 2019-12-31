@@ -89,10 +89,10 @@ $$
 $$
 c_i = 
 \begin{bmatrix}
-a_1i \\
+a_{1i} \\
 \vdots \\
-a_
-\end{bmatrix}
+a_{mi}
+\end{bmatrix}.
 $$
 이때, 투입 벡터 $x$는 아래를 열 벡터들을 조합해 $b$를 만들 수 있는 가중치를 찾는 문제가 된다. 
 
@@ -224,7 +224,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTY3NTgzNCwtMTk4MzQ2MzU4NCwtNz
+eyJoaXN0b3J5IjpbMTAzODE1MjE3MiwtMTk4MzQ2MzU4NCwtNz
 E0MTIyNTg1LDQxNzIzMzk2NiwxNTk3MDY1MzE4LC02NDk4MTYz
 NTgsMTQwNTE1MzgyMiwtODAwNDEyNjY5XX0=
 -->
