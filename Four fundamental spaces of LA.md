@@ -55,7 +55,7 @@ $$
 
 ## Which of two? 
 
-둘 다 쓸모가 있는 관점이지만 열 공간으로 보는 관점이 몇 가지 점에서 수학적으로 좋다. 우선, 열 공간으로 보게 되면 계산에 동원되는 모든 대상들이 '벡터 공간'에 위치하게 된다. 벡터 공간은 반드시 $\boldsymbol{0}$을 포함해야 한다. 열 공간에서는 이게 가능하다. 투입과 산출이 모두 벡터로 표현되고 산출은 행렬의 열들의 선형 결합을 통해 산출을 표현하게 되는 구조다. 
+둘 다 쓸모가 있는 관점이지만 열 공간으로 보는 관점이 몇 가지 점에서 수학적으로 좋다. 우선, 열 공간으로 보게 되면 계산에 동원되는 모든 대상들이 '벡터 공간'에 위치하게 된다. 벡터 공간은 반드시 $\boldsymbol{0}$을 포함해야 한다. 열 공간에서는 이게 가능하다. 투입과 산출이 모두 벡터로 표현되고 산출은 행렬을 구성하는 열 벡터의 선형 결합을 통해 표현된다. 이 선형 결합이 투입이 된다. 
 
 그런데, 열 공간의 관점에서는 이런 벡터 공간의 수학적인 결과를 활용하기 힘들다. 2차원 벡터까지는 평면에 도해할 수 있지만 3차원만 되도 애로사항이 슬슬 생긴다. 
 
@@ -222,7 +222,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTkyOTI0NSwtMTU4Njg4OTcwMiwtNj
+eyJoaXN0b3J5IjpbMTc4MjAwNDU3NiwtMTU4Njg4OTcwMiwtNj
 A3NDE4NDkyLC02OTkwMjE5OTIsLTcyNDcwNjk4MywxMDM4MTUy
 MTcyLC0xOTgzNDYzNTg0LC03MTQxMjI1ODUsNDE3MjMzOTY2LD
 E1OTcwNjUzMTgsLTY0OTgxNjM1OCwxNDA1MTUzODIyLC04MDA0
