@@ -86,6 +86,12 @@ c_1, ~\dotsc~, c_n
 \end{bmatrix}
 $$
 
+이때, 투입 벡터 $x$는 아래를 만족시키는 가중치를 찾는 문제가 된다. 
+
+$$
+A x = c_1 x_1 + c_2 x_2 + \dotsc + c_n x_n = b
+$$
+
 # Big Picture of Linear Algebra 
 
 기본적으로 행렬은 함수다. 즉, $(m \times n)$ 행렬이 있다면, 이는 $(n \times 1)$의 투입 벡터를 $(m \times 1)$의 산출 벡터로 바꾸는 역할을 한다. $A x = b$는 $f(x) =b$로 이해하면 좋다. 다만 차원이 임의의 자연수일 뿐이다. 
@@ -210,7 +216,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4ODg4OTUxLDQxNzIzMzk2NiwxNTk3MD
+eyJoaXN0b3J5IjpbMTIxMzA0NzE1LDQxNzIzMzk2NiwxNTk3MD
 Y1MzE4LC02NDk4MTYzNTgsMTQwNTE1MzgyMiwtODAwNDEyNjY5
 XX0=
 -->
