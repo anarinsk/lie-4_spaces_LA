@@ -61,13 +61,13 @@ $$
 
 기본적으로 행렬은 함수다. 즉, $(m \times n)$ 행렬이 있다면, 이는 $(n \times 1)$의 투입 벡터를 $(m \times 1)$의 산출 벡터로 바꾸는 역할을 한다. $A x = b$는 $f(x) =b$로 이해하면 좋다. 다만 차원이 임의의 자연수일 뿐이다. 
 
-마찬가지로 $A^T$는 $(m \times 1)$ 투입 벡터를 $(n \times 1)$ 산출 벡터로 바꾸는 역할을 한다. 이들 사이에 어떤 관계는 어떨까? 이를 나타내는 것이 길버트 스트랭(Gibert Strang) 선생이 말한 선형대수의 큰 그림이다. 아래 그림을 보자. 
+마찬가지로 $A^T$는 $(m \times 1)$ 투입 벡터를 $(n \times 1)$ 산출 벡터로 바꾸는 역할을 한다. 이들 사이에 어떤 관계가 존재할까? 이를 나타내는 것이 길버트 스트랭(Gibert Strang) 선생이 말한 선형대수의 '큰 그림'이다. 아래 그림을 보자. 
 
 <p align="center"><kbd>
   <img src="https://i.stack.imgur.com/dfZND.png" width="600">
 </kbd></p>
 
-그림 자체로 그냥 이해가 간다. 열 공간으로 이해하는 습관이 들었다면, 그림이 뒤집혀야 하지 않나, 싶겠지만 $A x = b$의 형태로 먼저 이해하면 좋다.  
+그림 자체로 그냥 이해가 간다. 열 공간으로 이해하는 습관이 들었다면, 그림이 뒤집혀야 하지 않나, 싶겠지만 앞서 보았던 연립방정식처럼 $A x = b$의 형태로 이해하면 좋다.  
 
 ## Row space 
 
@@ -82,7 +82,7 @@ r_m^T
 \end{bmatrix} 
 $$
 
-- $r_i$는 $A$의 $i$ 번째 행을 원소로 지닌 열 벡터이고 $(n \times 1)$이다.  
+- $r_i$는 $A$의 $i$ 번째 행을 원소로 지닌 $(n \times 1)$ 벡터다.  
 - 행 공간의 영 공간(null space) 역시 $\mathbb{R}^n$에 속한다. 영 공간이란 $A x = \boldsymbol{0}$을 만족하는 $x \neq \boldsymbol{0}$의 벡터이므로 이 역시 $(n \times 1)$ 벡터다. 
 
 ### Orthogonality of row space and null space 
@@ -90,7 +90,7 @@ $$
 두 벡터는 직교할까? 행 공간 $\mathcal{R}$의 정의는 다음과 같다. 
 
 $$
-\mathcal{R}(A) = \{  x_r \in \mathbb{R}^n \vert x_r = \sum_{i=1}^{m} r_i \alpha_i ,~\text{where}~ \alpha_i \in \mathbb{R}, ~r_i \in \mathbb{R}^n \}
+\mathcal{R}(A) = \{  x_r \in \mathbb{R}^n \vert x_r = \sum_{i=1}^{m}  \alpha_i  r_i,~\text{where}~ \alpha_i \in \mathbb{R}, ~r_i \in \mathbb{R}^n \}
 $$
 
 영공간(nullspace)에 속하는 벡터를 $x_n$라고 할 때(notation에 약간의 교란이 발생하지만 그림과의 일치를 위해 일단 이렇게 표기하도록 하자), 영공간의 정의에 따라서 $r_i^T x_n = 0$. 
@@ -122,7 +122,7 @@ $$
 - 나머지 과정은 비슷하게 전개할 수 있다. 열 공간 $\mathcal{C}$의 정의는 다음과 같다. 
 
 $$
-\mathcal{C}(A) = \{  x_c \in \mathbb{R}^m \vert x_c = \sum_{i=1}^{n} c_i \alpha_i ,~\text{where}~ \alpha_i \in \mathbb{R}, ~c_i \in \mathbb{R}^m \}
+\mathcal{C}(A) = \{  x_c \in \mathbb{R}^m \vert x_c = \sum_{i=1}^{n} \alpha_i c_i,~\text{where}~ \alpha_i \in \mathbb{R}, ~c_i \in \mathbb{R}^m \}
 $$
 
 좌 영공간의 정의에 따르면, $c_i^T x_n = 0$가 성립한다. 따라서, 
@@ -147,7 +147,7 @@ r_1 ~,\dotsc, ~ r_m
 \end{bmatrix} 
 $$
 
-위의 그림을 컬럼 스페이스로만 다시 표현하면 다음과 같다. 
+위의 그림을 컬럼 스페이스로만 다시 표현하면 다음과 같다. 즉, $A$의 행 공간은 $A^T$의 열 공간이다. 
 
 <p align="center"><kbd>
   <img src="https://github.com/anarinsk/lie-4_spaces_LA/blob/master/assets/imgs/fundamental.png?raw=true" width="600">
@@ -155,7 +155,7 @@ $$
 
 # Why? 
 
-이 네 개의 스페이스가 맺고 있는 관련성은 그 자체만으로도 중요하고 흥미로운 것이지만, 이를 통해 이른바 SVD(Singluar Value Decomposition)을 달성할 수 있다. 
+이 네 개의 스페이스가 맺고 있는 관련성은 그 자체만으로도 중요하고 흥미로운 것이지만, 이를 통해 이른바 SVD(Singluar Value Decomposition)을 달성할 수 있다. 만일 위에서 보듯이 $A$의 열 공간과 $A^T$의 열 공간이 같은 랭크를 지니지 않는담
 
 <p align="center"><kbd>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Singular_value_decomposition_visualisation.svg/1920px-Singular_value_decomposition_visualisation.svg.png" width="400">
@@ -177,5 +177,5 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjIyNzkwNTgsLTgwMDQxMjY2OV19
+eyJoaXN0b3J5IjpbLTc5NzgwMzYxMSwtODAwNDEyNjY5XX0=
 -->
