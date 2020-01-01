@@ -96,7 +96,7 @@ a_{1i} \\
 a_{mi}
 \end{bmatrix}.
 $$
-이때, 투입 벡터 $x = [x_1, \dots, x_n]$는 아래를 열 벡터들을 조합해 $b$를 만들 수 있는 가중치를 찾는 문제가 된다. 
+이때, 투입 벡터 $x = [x_1, \dots, x_n]$는 열 벡터들, $c_i$를 조합해 $b$를 만들 수 있는 가중치를 찾는 문제가 된다. 
 
 $$
 A x = c_1 x_1 + c_2 x_2 + \dotsc + c_n x_n = b
@@ -224,9 +224,9 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzg0ODUzNTEsLTE1ODY4ODk3MDIsLT
-YwNzQxODQ5MiwtNjk5MDIxOTkyLC03MjQ3MDY5ODMsMTAzODE1
-MjE3MiwtMTk4MzQ2MzU4NCwtNzE0MTIyNTg1LDQxNzIzMzk2Ni
-wxNTk3MDY1MzE4LC02NDk4MTYzNTgsMTQwNTE1MzgyMiwtODAw
-NDEyNjY5XX0=
+eyJoaXN0b3J5IjpbMTUwNDg4OTI5OCwtMTU4Njg4OTcwMiwtNj
+A3NDE4NDkyLC02OTkwMjE5OTIsLTcyNDcwNjk4MywxMDM4MTUy
+MTcyLC0xOTgzNDYzNTg0LC03MTQxMjI1ODUsNDE3MjMzOTY2LD
+E1OTcwNjUzMTgsLTY0OTgxNjM1OCwxNDA1MTUzODIyLC04MDA0
+MTI2NjldfQ==
 -->
