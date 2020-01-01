@@ -41,7 +41,7 @@ $$
 [^1]: 그림의 출처는 [여기](https://www.youtube.com/watch?v=My5w4MXWBew)
 
 <p align="center"><kbd>
-  <img src="https://github.com/anarinsk/lie-4_spaces_LA/blob/master/assets/imgs/row-picture.png?raw=true" width="600">
+  <img src="https://github.com/anarinsk/lie-4_spaces_LA/blob/master/assets/imgs/row-picture.png?raw=true" width="400">
 </kbd></p>
 
 
@@ -50,7 +50,7 @@ $$
 이제 이 문제를 컬럼으로 보자. 행렬을 열로 보면, $(2 \times 1)$ 벡터다. 이 벡터를 좌표로 나타나면 이제 $x$, $y$는 식의 방정식 우변의 벡터를 얻는 데 필요한 두 행 벡터에 가중치를 부여하는 역할을 한다. 아래 그림을 보자. 
 
 <p align="center"><kbd>
-  <img src="https://github.com/anarinsk/lie-4_spaces_LA/blob/master/assets/imgs/column-picture.png?raw=true" width="600">
+  <img src="https://github.com/anarinsk/lie-4_spaces_LA/blob/master/assets/imgs/column-picture.png?raw=true" width="400">
 </kbd></p>
 
 ## Which of two? 
@@ -61,7 +61,7 @@ $$
 
 <p align="center"><kbd>
   <img src="https://saylordotorg.github.io/text_intermediate-algebra/section_06/7459f0f0ab8b4fef9fb707a49ccbc0ae.png
-" width="600">
+" width="400">
 </kbd></p>
 
 언감생심 $n(\geq 4)$ 차원을 도해하는 것은 불가능하다. 
@@ -70,7 +70,7 @@ $$
 
 <p align="center"><kbd>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Vector-addition-and-scaling.svg/2880px-Vector-addition-and-scaling.svg.png
-" width="450">
+" width="400">
 </kbd></p>
 
 열 공간의 관점에서 행렬을 '함수'로 이해하는 방식을 다시 살펴보자. 
@@ -107,7 +107,7 @@ $$
 다시 강조하지만 기본적으로 행렬은 함수다. 마찬가지로 $A^T$는 $(m \times 1)$ 투입 벡터를 $(n \times 1)$ 산출 벡터로 바꾸는 역할을 한다. 이들 사이에 어떤 관계가 존재할까? 이를 나타내는 것이 길버트 스트랭(Gibert Strang) 선생이 말한 선형대수의 '큰 그림'이다. 아래 그림을 보자. 
 
 <p align="center"><kbd>
-  <img src="https://i.stack.imgur.com/dfZND.png" width="550">
+  <img src="https://i.stack.imgur.com/dfZND.png" width="450">
 </kbd></p>
 
 그림 자체로 그냥 이해가 간다. 열 공간으로 이해하는 습관이 들었다면, 그림이 뒤집혀야 하지 않나, 싶겠지만 앞서 보았던 연립방정식처럼 $A x = b$의 형태로 이해하면 좋다.  
@@ -196,7 +196,7 @@ $$
 위의 그림을 컬럼 스페이스로만 다시 표현하면 다음과 같다. 즉, $A$의 행 공간은 $A^T$의 열 공간이다. 
 
 <p align="center"><kbd>
-  <img src="https://github.com/anarinsk/lie-4_spaces_LA/blob/master/assets/imgs/fundamental.png?raw=true" width="600">
+  <img src="https://github.com/anarinsk/lie-4_spaces_LA/blob/master/assets/imgs/fundamental.png?raw=true" width="400">
 </kbd></p>
 
 # Why? 
@@ -224,9 +224,9 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDg4OTI5OCwtMTU4Njg4OTcwMiwtNj
-A3NDE4NDkyLC02OTkwMjE5OTIsLTcyNDcwNjk4MywxMDM4MTUy
-MTcyLC0xOTgzNDYzNTg0LC03MTQxMjI1ODUsNDE3MjMzOTY2LD
-E1OTcwNjUzMTgsLTY0OTgxNjM1OCwxNDA1MTUzODIyLC04MDA0
-MTI2NjldfQ==
+eyJoaXN0b3J5IjpbLTEyOTc0MzkxMTgsMTUwNDg4OTI5OCwtMT
+U4Njg4OTcwMiwtNjA3NDE4NDkyLC02OTkwMjE5OTIsLTcyNDcw
+Njk4MywxMDM4MTUyMTcyLC0xOTgzNDYzNTg0LC03MTQxMjI1OD
+UsNDE3MjMzOTY2LDE1OTcwNjUzMTgsLTY0OTgxNjM1OCwxNDA1
+MTUzODIyLC04MDA0MTI2NjldfQ==
 -->
