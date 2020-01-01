@@ -204,13 +204,13 @@ $$
 이 네 개의 스페이스가 맺고 있는 관련성은 그 자체만으로도 중요하고 흥미로운 것이지만, 이를 통해 이른바 SVD(Singluar Value Decomposition)을 달성할 수 있다. 만일 위에서 보듯이 $A$의 열 공간과 $A^T$의 열 공간이 같은 랭크를 지니지 않는다면 이런 분해는 불가능하다. 
 
 <p align="center"><kbd>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Singular_value_decomposition_visualisation.svg/1920px-Singular_value_decomposition_visualisation.svg.png" width="400">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Singular_value_decomposition_visualisation.svg/1920px-Singular_value_decomposition_visualisation.svg.png" width="350">
 </kbd></p>
 
 먼저 매트릭스 $A$의 열 공간에 속하는 원소 중에서 $r$ 개만 서로 독립이라고 하자. 이렇다면 이 성분으로만 구성된 매트릭스 $U$를 만들 수 있다. 이때 매트릭스 $U$의 켤레 전치행렬은 $U^*$라고 하면, $U U^* = I_m$이 성립한다. 그리고, 행 공간에 속하는 원소 역시 $r$ 개만 독립이고, 이를 기반으로 $V$를 만들 수 있다. 그리고 이 사이에 특성값(singular value)을 대각행렬로 지니는 $\Sigma$를 넣으면 $A$는 다음과 같이 세 가지로 분해된다. 
 
 <p align="center"><kbd>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Singular-Value-Decomposition.svg/1920px-Singular-Value-Decomposition.svg.png" width="400">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Singular-Value-Decomposition.svg/1920px-Singular-Value-Decomposition.svg.png" width="350">
 </kbd></p>
 
 기본적으로 행렬은 함수다. 즉 어떤 벡터의 변형이다. $M$에 투입되는 $(n \times 1)$의 벡터 $x$가 있다고 하자.  
@@ -224,9 +224,9 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc0MzkxMTgsMTUwNDg4OTI5OCwtMT
-U4Njg4OTcwMiwtNjA3NDE4NDkyLC02OTkwMjE5OTIsLTcyNDcw
-Njk4MywxMDM4MTUyMTcyLC0xOTgzNDYzNTg0LC03MTQxMjI1OD
-UsNDE3MjMzOTY2LDE1OTcwNjUzMTgsLTY0OTgxNjM1OCwxNDA1
-MTUzODIyLC04MDA0MTI2NjldfQ==
+eyJoaXN0b3J5IjpbMTA5NjQ4OTc5MCwxNTA0ODg5Mjk4LC0xNT
+g2ODg5NzAyLC02MDc0MTg0OTIsLTY5OTAyMTk5MiwtNzI0NzA2
+OTgzLDEwMzgxNTIxNzIsLTE5ODM0NjM1ODQsLTcxNDEyMjU4NS
+w0MTcyMzM5NjYsMTU5NzA2NTMxOCwtNjQ5ODE2MzU4LDE0MDUx
+NTM4MjIsLTgwMDQxMjY2OV19
 -->
