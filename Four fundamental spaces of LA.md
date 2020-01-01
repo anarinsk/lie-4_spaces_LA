@@ -73,7 +73,7 @@ $$
 " width="450">
 </kbd></p>
 
-열 공간의 관점에서 행렬을 '함수'로 이해하는 길이 열린다. 
+열 공간의 관점에서 행렬을 '함수'로 이해하는 방식을 다시 살펴보자. 
 
 $$
 \underset{(m \times n)}{A} \underset{(n \times 1)}{x} = \underset{(m \times 1)}{b}
@@ -96,7 +96,7 @@ a_{1i} \\
 a_{mi}
 \end{bmatrix}.
 $$
-이때, 투입 벡터 $x$는 아래를 열 벡터들을 조합해 $b$를 만들 수 있는 가중치를 찾는 문제가 된다. 
+이때, 투입 벡터 $x = [x_1, \dots, x_n]$는 아래를 열 벡터들을 조합해 $b$를 만들 수 있는 가중치를 찾는 문제가 된다. 
 
 $$
 A x = c_1 x_1 + c_2 x_2 + \dotsc + c_n x_n = b
@@ -224,7 +224,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDUzMDgwNDcsLTE1ODY4ODk3MDIsLT
+eyJoaXN0b3J5IjpbLTIwNzg0ODUzNTEsLTE1ODY4ODk3MDIsLT
 YwNzQxODQ5MiwtNjk5MDIxOTkyLC03MjQ3MDY5ODMsMTAzODE1
 MjE3MiwtMTk4MzQ2MzU4NCwtNzE0MTIyNTg1LDQxNzIzMzk2Ni
 wxNTk3MDY1MzE4LC02NDk4MTYzNTgsMTQwNTE1MzgyMiwtODAw
