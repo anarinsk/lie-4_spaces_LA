@@ -60,7 +60,7 @@ $$
 
 둘 다 쓸모가 있는 관점이지만 열 공간으로 보는 관점이 몇 가지 점에서 수학적으로 좋다. 우선, 열 공간으로 보게 되면 계산에 동원되는 모든 대상들이 '벡터 공간'에 위치하게 된다. 벡터 공간은 반드시 $\boldsymbol{0}$을 포함해야 한다. 열 공간에서는 이게 가능하다. 투입과 산출이 모두 벡터로 표현되고 산출은 행렬을 구성하는 열 벡터의 선형 결합을 통해 표현된다. 이 선형 결합이 일종의 투입이 된다. 
 
-그런데 행 공간의 관점에서는 벡터 공간의 수학적인 표현과 그 결과를 활용하기 힘들다. 2차원 벡터까지는 평면에 도해할 수 있지만 3차원만 되도 보기에도 부담스러. 
+그런데 행 공간의 관점에서는 벡터 공간의 수학적인 표현과 그 결과를 활용하기 힘들다. 2차원 벡터까지는 평면에 도해할 수 있지만 3차원만 되도 보기에도 부담스럽다. 
 
 <p align="center"><kbd>
   <img src="https://saylordotorg.github.io/text_intermediate-algebra/section_06/7459f0f0ab8b4fef9fb707a49ccbc0ae.png
@@ -69,14 +69,14 @@ $$
 
 언감생심 $n(\geq 4)$ 차원을 도해하는 것은 불가능하다. 
 
-물론 열 공간의 관점을 취한다고 해도 정확한 도해가 가능한 것은 아니다. 하지만 벡터 공간 안에서 정확하게 개념을 나타낼 수는 있다. 아래 그림처럼 보통 벡터를 표현할 때 $\boldsymbol{0}$를 중심으로 벡터의 기호를 적는다. 적어도 그림상으로 벡터 스페이스 위에서 더하기와 곱하기를 표기하는 데 무리가 없다. 
+물론 열 공간의 관점을 취한다고 해도 '정확한' 도해가 가능한 것은 아니다. 하지만 벡터 공간 안에서 정확하게 개념을 표시할 수는 있다. 아래 그림처럼 보통 벡터를 표현할 때 $\boldsymbol{0}$를 중심으로 벡터의 기호를 적는다. 적어도 그림상으로 벡터 스페이스 위에서 더하기와 곱하기를 표기하는 데 무리가 없다. 
 
 <p align="center"><kbd>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Vector-addition-and-scaling.svg/2880px-Vector-addition-and-scaling.svg.png
 " width="400">
 </kbd></p>
 
-열 공간의 관점에서 행렬을 '함수'로 이해하는 방식을 다시 살펴보자. 
+확인 차원에서 열 공간의 관점에서 행렬을 '함수'로 이해하는 방식을 다시 살펴보자. 
 
 $$
 \underset{(m \times n)}{A} \underset{(n \times 1)}{x} = \underset{(m \times 1)}{b}
@@ -87,7 +87,8 @@ $$
 $$
 A = 
 \begin{bmatrix}
-c_1, ~\dotsc~, c_n
+\vert ~ \dotsc \vert \\
+c_1 ~\dotsc~, c_n
 \end{bmatrix},~\text{where}
 $$
 
@@ -294,10 +295,10 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5NzQ0NTQ3LDE1NTc5Nzk2NjcsMTk5MT
-gyOTExNywxMjQ4Nzc2NTgsMTA5NjQ4OTc5MCwxNTA0ODg5Mjk4
-LC0xNTg2ODg5NzAyLC02MDc0MTg0OTIsLTY5OTAyMTk5MiwtNz
-I0NzA2OTgzLDEwMzgxNTIxNzIsLTE5ODM0NjM1ODQsLTcxNDEy
-MjU4NSw0MTcyMzM5NjYsMTU5NzA2NTMxOCwtNjQ5ODE2MzU4LD
-E0MDUxNTM4MjIsLTgwMDQxMjY2OV19
+eyJoaXN0b3J5IjpbLTEwOTM1ODc5MzQsMTU1Nzk3OTY2NywxOT
+kxODI5MTE3LDEyNDg3NzY1OCwxMDk2NDg5NzkwLDE1MDQ4ODky
+OTgsLTE1ODY4ODk3MDIsLTYwNzQxODQ5MiwtNjk5MDIxOTkyLC
+03MjQ3MDY5ODMsMTAzODE1MjE3MiwtMTk4MzQ2MzU4NCwtNzE0
+MTIyNTg1LDQxNzIzMzk2NiwxNTk3MDY1MzE4LC02NDk4MTYzNT
+gsMTQwNTE1MzgyMiwtODAwNDEyNjY5XX0=
 -->
