@@ -7,13 +7,11 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 # Tales of Two Lines 
 
 <p align="center"><kbd>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Matrix_Rows.svg/510px-Matrix_Rows.svg.png" width="250">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Matrix_Columns.svg/510px-Matrix_Columns.svg.png" width="250">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Matrix_Rows.svg/510px-Matrix_Rows.svg.png" width="150">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Matrix_Columns.svg/510px-Matrix_Columns.svg.png" width="150">
 </kbd></p>
 
-행렬을 행 공간으로 이해하는 것과 열 공간으로 이해하는 것은 같은 해를 구하는 문제에서도 전혀 다른 함의를 지닌다.  예를 들어보자. 
-
-아래의 연립 방정식을 풀고 싶다고 하자. 
+행렬을 행 공간(row space)으로 이해하는 것과 열 공간(column space)으로 이해하는 것은 같은 해를 구하는 문제에서도 전혀 다른 함의를 지닌다. 아래의 연립 방정식을 풀고 싶다고 하자. 
 
 $$
 \begin{aligned}
@@ -296,10 +294,10 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1Nzk3OTY2NywxOTkxODI5MTE3LDEyND
-g3NzY1OCwxMDk2NDg5NzkwLDE1MDQ4ODkyOTgsLTE1ODY4ODk3
-MDIsLTYwNzQxODQ5MiwtNjk5MDIxOTkyLC03MjQ3MDY5ODMsMT
-AzODE1MjE3MiwtMTk4MzQ2MzU4NCwtNzE0MTIyNTg1LDQxNzIz
-Mzk2NiwxNTk3MDY1MzE4LC02NDk4MTYzNTgsMTQwNTE1MzgyMi
-wtODAwNDEyNjY5XX0=
+eyJoaXN0b3J5IjpbLTE0NDc1MDY1NjUsMTU1Nzk3OTY2NywxOT
+kxODI5MTE3LDEyNDg3NzY1OCwxMDk2NDg5NzkwLDE1MDQ4ODky
+OTgsLTE1ODY4ODk3MDIsLTYwNzQxODQ5MiwtNjk5MDIxOTkyLC
+03MjQ3MDY5ODMsMTAzODE1MjE3MiwtMTk4MzQ2MzU4NCwtNzE0
+MTIyNTg1LDQxNzIzMzk2NiwxNTk3MDY1MzE4LC02NDk4MTYzNT
+gsMTQwNTE1MzgyMiwtODAwNDEyNjY5XX0=
 -->
