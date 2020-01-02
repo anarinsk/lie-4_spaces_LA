@@ -267,7 +267,7 @@ c_1, c_2, -2c_2
 \end{bmatrix}.
 $$
 
-이제 행렬 A의 영 공간을 생각해보자. 영 공간이란 $A x = 0$을 만족시키는 $x$의 차원이다. 그런데, 앞서 $c$에 관계없이 $Ax_s = 0$을 만족해야 하므로 $A$의 영 공간은 1이 된다. 그리고 4개의 근본 공간의 원리에 따라서 $A^T$의 컬럼 
+이제 행렬 A의 영 공간을 생각해보자. 영 공간이란 $A x = 0$을 만족시키는 $x$의 차원이다. 그런데, 앞서 $c$에 관계없이 $Ax_s = 0$을 만족해야 하므로 $A$의 영 공간은 1이 된다. 그리고 4개의 근본 공간의 원리에 따라서 $A^T$는 3차원 공간의 한 벡터이므로 $A^T$의 랭크는 $3-1 = 2$가 된다. 그리고 $A^T$의 랭크와 $A$의 랭크는 같기 때문에 $A$의 랭크는 2가 된다. 
 
 # Why? 
 
@@ -294,10 +294,10 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTAyNTQ1NzMsMTI0ODc3NjU4LDEwOT
-Y0ODk3OTAsMTUwNDg4OTI5OCwtMTU4Njg4OTcwMiwtNjA3NDE4
-NDkyLC02OTkwMjE5OTIsLTcyNDcwNjk4MywxMDM4MTUyMTcyLC
-0xOTgzNDYzNTg0LC03MTQxMjI1ODUsNDE3MjMzOTY2LDE1OTcw
-NjUzMTgsLTY0OTgxNjM1OCwxNDA1MTUzODIyLC04MDA0MTI2Nj
-ldfQ==
+eyJoaXN0b3J5IjpbMTk5MTgyOTExNywxMjQ4Nzc2NTgsMTA5Nj
+Q4OTc5MCwxNTA0ODg5Mjk4LC0xNTg2ODg5NzAyLC02MDc0MTg0
+OTIsLTY5OTAyMTk5MiwtNzI0NzA2OTgzLDEwMzgxNTIxNzIsLT
+E5ODM0NjM1ODQsLTcxNDEyMjU4NSw0MTcyMzM5NjYsMTU5NzA2
+NTMxOCwtNjQ5ODE2MzU4LDE0MDUxNTM4MjIsLTgwMDQxMjY2OV
+19
 -->
