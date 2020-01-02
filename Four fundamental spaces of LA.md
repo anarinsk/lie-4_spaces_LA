@@ -124,9 +124,9 @@ $$
 $$
 A = 
 \begin{bmatrix}
-- & r_1^T - \\
-\vdots\\
-r_m^T
+ & r_1^T & -- \\
+-- & \vdots & --\\
+-- & r_m^T & --
 \end{bmatrix} 
 $$
 
@@ -296,7 +296,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzEwNzQ1MSwtMTQ3NzI5MzAyOSwxNT
+eyJoaXN0b3J5IjpbMTA3NDk0NjUzNSwtMTQ3NzI5MzAyOSwxNT
 U3OTc5NjY3LDE5OTE4MjkxMTcsMTI0ODc3NjU4LDEwOTY0ODk3
 OTAsMTUwNDg4OTI5OCwtMTU4Njg4OTcwMiwtNjA3NDE4NDkyLC
 02OTkwMjE5OTIsLTcyNDcwNjk4MywxMDM4MTUyMTcyLC0xOTgz
