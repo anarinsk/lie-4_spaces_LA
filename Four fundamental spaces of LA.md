@@ -87,8 +87,9 @@ $$
 $$
 A = 
 \begin{bmatrix}
-\vert ~ \dotsc \vert \\
-c_1 ~\dotsc~, c_n
+\vert ~~ \dotsc ~~ \vert \\
+c_1 ~\dotsc~ c_n \\
+\vert ~~ \dotsc ~~ \vert 
 \end{bmatrix},~\text{where}
 $$
 
@@ -295,7 +296,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTM1ODc5MzQsMTU1Nzk3OTY2NywxOT
+eyJoaXN0b3J5IjpbLTE0NzcyOTMwMjksMTU1Nzk3OTY2NywxOT
 kxODI5MTE3LDEyNDg3NzY1OCwxMDk2NDg5NzkwLDE1MDQ4ODky
 OTgsLTE1ODY4ODk3MDIsLTYwNzQxODQ5MiwtNjk5MDIxOTkyLC
 03MjQ3MDY5ODMsMTAzODE1MjE3MiwtMTk4MzQ2MzU4NCwtNzE0
