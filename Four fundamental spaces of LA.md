@@ -232,7 +232,20 @@ c
 0 \\
 2 \\
 1
-\end{bmatrix},~\te\forall c \in \mathbb{R}
+\end{bmatrix}, \forall c \in \mathbb{R}
+$$
+
+이 문제를 풀어보자. 우선 $A$을 열 벡터($c_i$)의 관점에서 바라보자. 
+
+$$
+A = 
+\begin{bmatrix}
+c_1, c_2, c_3
+\end{bmatrix}
+$$
+
+$$
+A
 $$
 
 # Why? 
@@ -260,10 +273,10 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzNTM3MjA1LDEyNDg3NzY1OCwxMDk2ND
-g5NzkwLDE1MDQ4ODkyOTgsLTE1ODY4ODk3MDIsLTYwNzQxODQ5
-MiwtNjk5MDIxOTkyLC03MjQ3MDY5ODMsMTAzODE1MjE3MiwtMT
-k4MzQ2MzU4NCwtNzE0MTIyNTg1LDQxNzIzMzk2NiwxNTk3MDY1
-MzE4LC02NDk4MTYzNTgsMTQwNTE1MzgyMiwtODAwNDEyNjY5XX
-0=
+eyJoaXN0b3J5IjpbMTM5Njc2MTAwOSwxMjQ4Nzc2NTgsMTA5Nj
+Q4OTc5MCwxNTA0ODg5Mjk4LC0xNTg2ODg5NzAyLC02MDc0MTg0
+OTIsLTY5OTAyMTk5MiwtNzI0NzA2OTgzLDEwMzgxNTIxNzIsLT
+E5ODM0NjM1ODQsLTcxNDEyMjU4NSw0MTcyMzM5NjYsMTU5NzA2
+NTMxOCwtNjQ5ODE2MzU4LDE0MDUxNTM4MjIsLTgwMDQxMjY2OV
+19
 -->
