@@ -204,6 +204,31 @@ $$
   <img src="https://github.com/anarinsk/lie-4_spaces_LA/blob/master/assets/imgs/fundamental.png?raw=true" width="400">
 </kbd></p>
 
+## A simple example 
+
+간단한 예 하나를 들어보자. 
+
+$$
+Ax = 
+\begin{bmatrix}
+1 \\
+4 \\
+1 \\
+1
+\end{bmatrix}.
+$$
+
+그리고 
+
+$$
+x=
+\begin{bmatrix}
+0 \\
+1 \\
+1
+\end{bmatrix}
+$$
+
 # Why? 
 
 이 네 개의 스페이스가 맺고 있는 관련성은 그 자체만으로도 중요하고 흥미로운 것이지만, 이를 통해 이른바 SVD(Singluar Value Decomposition)을 달성할 수 있다. 만일 위에서 보듯이 $A$의 열 공간과 $A^T$의 열 공간이 같은 랭크를 지니지 않는다면 이런 분해는 불가능하다. 
@@ -229,9 +254,10 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODc3NjU4LDEwOTY0ODk3OTAsMTUwND
-g4OTI5OCwtMTU4Njg4OTcwMiwtNjA3NDE4NDkyLC02OTkwMjE5
-OTIsLTcyNDcwNjk4MywxMDM4MTUyMTcyLC0xOTgzNDYzNTg0LC
-03MTQxMjI1ODUsNDE3MjMzOTY2LDE1OTcwNjUzMTgsLTY0OTgx
-NjM1OCwxNDA1MTUzODIyLC04MDA0MTI2NjldfQ==
+eyJoaXN0b3J5IjpbMTQ1MDM2ODc0NywxMjQ4Nzc2NTgsMTA5Nj
+Q4OTc5MCwxNTA0ODg5Mjk4LC0xNTg2ODg5NzAyLC02MDc0MTg0
+OTIsLTY5OTAyMTk5MiwtNzI0NzA2OTgzLDEwMzgxNTIxNzIsLT
+E5ODM0NjM1ODQsLTcxNDEyMjU4NSw0MTcyMzM5NjYsMTU5NzA2
+NTMxOCwtNjQ5ODE2MzU4LDE0MDUxNTM4MjIsLTgwMDQxMjY2OV
+19
 -->
