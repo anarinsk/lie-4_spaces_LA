@@ -6,6 +6,8 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 # Tales of Two Lines 
 
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Matrix_Rows.svg/510px-Matrix_Rows.svg.png
+
 행렬을 행 공간으로 이해하는 것과 열 공간으로 이해하는 것은 같은 해를 구하는 문제에서도 전혀 다른 함의를 지닌다.  예를 들어보자. 
 
 아래의 연립 방정식을 풀고 싶다고 하자. 
@@ -224,9 +226,9 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjQ4OTc5MCwxNTA0ODg5Mjk4LC0xNT
-g2ODg5NzAyLC02MDc0MTg0OTIsLTY5OTAyMTk5MiwtNzI0NzA2
-OTgzLDEwMzgxNTIxNzIsLTE5ODM0NjM1ODQsLTcxNDEyMjU4NS
-w0MTcyMzM5NjYsMTU5NzA2NTMxOCwtNjQ5ODE2MzU4LDE0MDUx
-NTM4MjIsLTgwMDQxMjY2OV19
+eyJoaXN0b3J5IjpbMjIxMjc0MjYzLDEwOTY0ODk3OTAsMTUwND
+g4OTI5OCwtMTU4Njg4OTcwMiwtNjA3NDE4NDkyLC02OTkwMjE5
+OTIsLTcyNDcwNjk4MywxMDM4MTUyMTcyLC0xOTgzNDYzNTg0LC
+03MTQxMjI1ODUsNDE3MjMzOTY2LDE1OTcwNjUzMTgsLTY0OTgx
+NjM1OCwxNDA1MTUzODIyLC04MDA0MTI2NjldfQ==
 -->
