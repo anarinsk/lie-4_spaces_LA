@@ -245,8 +245,16 @@ c_1, c_2, c_3
 $$
 
 $$
-A
+Ax = A c_2 + A c_3 + c(2 c_2 + c_3) = 
+\begin{bmatrix}
+1 \\
+4 \\
+1 \\
+1
+\end{bmatrix}.
 $$
+
+모든 $c$에 관해서 성립해야 하므로, $2c_2 + c_3 = 0$은 항상 성립해야 한다. 그리고, $$
 
 # Why? 
 
@@ -273,7 +281,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5Njc2MTAwOSwxMjQ4Nzc2NTgsMTA5Nj
+eyJoaXN0b3J5IjpbLTEwOTQzOTIzNywxMjQ4Nzc2NTgsMTA5Nj
 Q4OTc5MCwxNTA0ODg5Mjk4LC0xNTg2ODg5NzAyLC02MDc0MTg0
 OTIsLTY5OTAyMTk5MiwtNzI0NzA2OTgzLDEwMzgxNTIxNzIsLT
 E5ODM0NjM1ODQsLTcxNDEyMjU4NSw0MTcyMzM5NjYsMTU5NzA2
