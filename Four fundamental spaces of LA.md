@@ -227,13 +227,14 @@ x=
 0 \\
 1 \\
 1
-\end{bmatrix} }+ 
+\end{bmatrix} }_{x_p}+ 
 c
+\underbrace{
 \begin{bmatrix}
 0 \\
 2 \\
 1
-\end{bmatrix}, \forall c \in \mathbb{R}
+\end{bmatrix}}_{x_s}, \forall c \in \mathbb{R}
 $$
 
 이 문제를 풀어보자. 우선 $A$을 열 벡터($c_i$)의 관점에서 바라보자. 
@@ -266,7 +267,7 @@ c_1, c_2, -2c_2
 \end{bmatrix}.
 $$
 
-이제 행렬 A의 영 공간을 생각해보자. 영 공간이란 $A x = 0$을 만족시키는 $x$의 차원이다. 그런데, 앞서 $c$에 관계없이 
+이제 행렬 A의 영 공간을 생각해보자. 영 공간이란 $A x = 0$을 만족시키는 $x$의 차원이다. 그런데, 앞서 $c$에 관계없이 $Ax_s = 0$을 만족해야 하므로, $Ax $
 
 # Why? 
 
@@ -293,10 +294,10 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTA3ODk2NiwxMjQ4Nzc2NTgsMTA5Nj
-Q4OTc5MCwxNTA0ODg5Mjk4LC0xNTg2ODg5NzAyLC02MDc0MTg0
-OTIsLTY5OTAyMTk5MiwtNzI0NzA2OTgzLDEwMzgxNTIxNzIsLT
-E5ODM0NjM1ODQsLTcxNDEyMjU4NSw0MTcyMzM5NjYsMTU5NzA2
-NTMxOCwtNjQ5ODE2MzU4LDE0MDUxNTM4MjIsLTgwMDQxMjY2OV
-19
+eyJoaXN0b3J5IjpbNzY3Mjc4NjE4LDEyNDg3NzY1OCwxMDk2ND
+g5NzkwLDE1MDQ4ODkyOTgsLTE1ODY4ODk3MDIsLTYwNzQxODQ5
+MiwtNjk5MDIxOTkyLC03MjQ3MDY5ODMsMTAzODE1MjE3MiwtMT
+k4MzQ2MzU4NCwtNzE0MTIyNTg1LDQxNzIzMzk2NiwxNTk3MDY1
+MzE4LC02NDk4MTYzNTgsMTQwNTE1MzgyMiwtODAwNDEyNjY5XX
+0=
 -->
