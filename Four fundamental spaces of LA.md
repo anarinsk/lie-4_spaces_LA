@@ -254,7 +254,16 @@ Ax = A c_2 + A c_3 + c(2 c_2 + c_3) =
 \end{bmatrix}.
 $$
 
-모든 $c$에 관해서 성립해야 하므로, $2c_2 + c_3 = 0$은 항상 성립해야 한다. 그리고, $$
+모든 $c$에 관해서 성립해야 하므로, $2c_2 + c_3 = 0$은 항상 성립해야 한다. 따라서 
+
+$$
+A = 
+\begin{bmatrix}
+c_1, c_2, -2c_2
+\end{bmatrix}.
+$$
+
+이제 행렬 A의 영 공간을 생각해보자. 영 공간이란 $A x = 0$을 만족시키는 $x$의 차원이다. 그런데, 앞서 $c$에 관계없이 
 
 # Why? 
 
@@ -281,10 +290,10 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQzOTIzNywxMjQ4Nzc2NTgsMTA5Nj
-Q4OTc5MCwxNTA0ODg5Mjk4LC0xNTg2ODg5NzAyLC02MDc0MTg0
-OTIsLTY5OTAyMTk5MiwtNzI0NzA2OTgzLDEwMzgxNTIxNzIsLT
-E5ODM0NjM1ODQsLTcxNDEyMjU4NSw0MTcyMzM5NjYsMTU5NzA2
-NTMxOCwtNjQ5ODE2MzU4LDE0MDUxNTM4MjIsLTgwMDQxMjY2OV
-19
+eyJoaXN0b3J5IjpbNTE1Mzc4MDU5LDEyNDg3NzY1OCwxMDk2ND
+g5NzkwLDE1MDQ4ODkyOTgsLTE1ODY4ODk3MDIsLTYwNzQxODQ5
+MiwtNjk5MDIxOTkyLC03MjQ3MDY5ODMsMTAzODE1MjE3MiwtMT
+k4MzQ2MzU4NCwtNzE0MTIyNTg1LDQxNzIzMzk2NiwxNTk3MDY1
+MzE4LC02NDk4MTYzNTgsMTQwNTE1MzgyMiwtODAwNDEyNjY5XX
+0=
 -->
