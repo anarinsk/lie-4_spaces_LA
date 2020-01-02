@@ -125,8 +125,9 @@ $$
 A = 
 \begin{bmatrix}
 ~-& r_1^T & -~ \\
+\vphantom{-} & \phantom{-} & \vphantom{-}\\
 ~- & \vdots & -~\\
-\vpham & 1 & 1\\
+\vphantom{-} & \phantom{-} & \vphantom{-}\\
 ~- & r_m^T & -~
 \end{bmatrix} 
 $$
@@ -163,7 +164,14 @@ $$
 
 $$
 \begin{bmatrix}
-c_1, ~\cdots~, c_n
+\vert ~~ \dotsc ~~ \vert \\
+c_1 ~\dotsc~ c_n \\
+\vert ~~ \dotsc ~~ \vert 
+\end{bmatrix}, ~\text{where}~ c_i = 
+\begin{bmatrix}
+c_{1i}\\
+\vdots \\
+c_ 
 \end{bmatrix}
 $$
 
@@ -297,7 +305,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE2MTM2MzEsLTE0NzcyOTMwMjksMT
+eyJoaXN0b3J5IjpbLTE1NDExODI0MDEsLTE0NzcyOTMwMjksMT
 U1Nzk3OTY2NywxOTkxODI5MTE3LDEyNDg3NzY1OCwxMDk2NDg5
 NzkwLDE1MDQ4ODkyOTgsLTE1ODY4ODk3MDIsLTYwNzQxODQ5Mi
 wtNjk5MDIxOTkyLC03MjQ3MDY5ODMsMTAzODE1MjE3MiwtMTk4
