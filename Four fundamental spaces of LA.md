@@ -278,7 +278,7 @@ $$
 
 이제 행렬 A의 영 공간을 생각해보자. 영 공간이란 $A x = 0$을 만족시키는 $x$의 차원이다. 그런데, 앞서 $c$에 관계없이 $Ax_s = 0$을 만족해야 하므로 $A$의 영 공간은 1이 된다. 즉, 이를 만족시키는 해는 $x_s$ 하나 밖에 없다. 
 
-이제 앞서 본 4개의 근본 공간의 원리에 따라서 $A^T$의 차원은 $(3 \times 4)$이고, $A$ $A^T$의 랭크는 $3-1 = 2$가 된다. 그리고 $A^T$의 랭크와 $A$의 랭크는 같기 때문에 $A$의 랭크는 2가 된다. 
+이제 앞서 본 4개의 근본 공간의 원리에 따라서 $A^T$의 차원은 $(3 \times 4)$이고, $A^T$는 $(3 \times 1)$ 열 벡터의 선형 결합이다. 따라서 $A^T$의 랭크는 $3-1 = 2$가 된다. 그리고 $A^T$의 랭크와 $A$의 랭크는 같기 때문에 $A$의 랭크는 2가 된다. 
 
 # Why? 
 
@@ -305,7 +305,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODY1MDM5MiwtMTQ3NzI5MzAyOSwxNT
+eyJoaXN0b3J5IjpbLTkyMTIxMzc3MCwtMTQ3NzI5MzAyOSwxNT
 U3OTc5NjY3LDE5OTE4MjkxMTcsMTI0ODc3NjU4LDEwOTY0ODk3
 OTAsMTUwNDg4OTI5OCwtMTU4Njg4OTcwMiwtNjA3NDE4NDkyLC
 02OTkwMjE5OTIsLTcyNDcwNjk4MywxMDM4MTUyMTcyLC0xOTgz
