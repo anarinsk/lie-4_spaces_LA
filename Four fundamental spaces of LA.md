@@ -222,11 +222,12 @@ $$
 
 $$
 x=
+\underbrace{
 \begin{bmatrix}
 0 \\
 1 \\
 1
-\end{bmatrix} + 
+\end{bmatrix} }+ 
 c
 \begin{bmatrix}
 0 \\
@@ -245,6 +246,7 @@ c_1, c_2, c_3
 $$
 
 $$
+\begin{aligned}
 Ax = A c_2 + A c_3 + c(2 c_2 + c_3) = 
 \begin{bmatrix}
 1 \\
@@ -252,6 +254,7 @@ Ax = A c_2 + A c_3 + c(2 c_2 + c_3) =
 1 \\
 1
 \end{bmatrix}.
+\end{aligned}
 $$
 
 모든 $c$에 관해서 성립해야 하므로, $2c_2 + c_3 = 0$은 항상 성립해야 한다. 따라서 
@@ -290,10 +293,10 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1Mzc4MDU5LDEyNDg3NzY1OCwxMDk2ND
-g5NzkwLDE1MDQ4ODkyOTgsLTE1ODY4ODk3MDIsLTYwNzQxODQ5
-MiwtNjk5MDIxOTkyLC03MjQ3MDY5ODMsMTAzODE1MjE3MiwtMT
-k4MzQ2MzU4NCwtNzE0MTIyNTg1LDQxNzIzMzk2NiwxNTk3MDY1
-MzE4LC02NDk4MTYzNTgsMTQwNTE1MzgyMiwtODAwNDEyNjY5XX
-0=
+eyJoaXN0b3J5IjpbMTYxOTA3ODk2NiwxMjQ4Nzc2NTgsMTA5Nj
+Q4OTc5MCwxNTA0ODg5Mjk4LC0xNTg2ODg5NzAyLC02MDc0MTg0
+OTIsLTY5OTAyMTk5MiwtNzI0NzA2OTgzLDEwMzgxNTIxNzIsLT
+E5ODM0NjM1ODQsLTcxNDEyMjU4NSw0MTcyMzM5NjYsMTU5NzA2
+NTMxOCwtNjQ5ODE2MzU4LDE0MDUxNTM4MjIsLTgwMDQxMjY2OV
+19
 -->
