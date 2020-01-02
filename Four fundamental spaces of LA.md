@@ -226,7 +226,13 @@ x=
 0 \\
 1 \\
 1
-\end{bmatrix}
+\end{bmatrix} + 
+c
+\begin{bmatrix}
+0 \\
+2 \\
+1
+\end{bmatrix},~\te\forall c \in \mathbb{R}
 $$
 
 # Why? 
@@ -254,10 +260,10 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDM2ODc0NywxMjQ4Nzc2NTgsMTA5Nj
-Q4OTc5MCwxNTA0ODg5Mjk4LC0xNTg2ODg5NzAyLC02MDc0MTg0
-OTIsLTY5OTAyMTk5MiwtNzI0NzA2OTgzLDEwMzgxNTIxNzIsLT
-E5ODM0NjM1ODQsLTcxNDEyMjU4NSw0MTcyMzM5NjYsMTU5NzA2
-NTMxOCwtNjQ5ODE2MzU4LDE0MDUxNTM4MjIsLTgwMDQxMjY2OV
-19
+eyJoaXN0b3J5IjpbMjgzNTM3MjA1LDEyNDg3NzY1OCwxMDk2ND
+g5NzkwLDE1MDQ4ODkyOTgsLTE1ODY4ODk3MDIsLTYwNzQxODQ5
+MiwtNjk5MDIxOTkyLC03MjQ3MDY5ODMsMTAzODE1MjE3MiwtMT
+k4MzQ2MzU4NCwtNzE0MTIyNTg1LDQxNzIzMzk2NiwxNTk3MDY1
+MzE4LC02NDk4MTYzNTgsMTQwNTE1MzgyMiwtODAwNDEyNjY5XX
+0=
 -->
