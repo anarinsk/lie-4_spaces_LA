@@ -171,12 +171,12 @@ c_1 ~\dotsc~ c_n \\
 \begin{bmatrix}
 c_{1i}\\
 \vdots \\
-c_ 
-\end{bmatrix}
+c_{mi} 
+\end{bmatrix}.
 $$
 
 - 열 공간의 영 공간, 좌 영공간(left nullspace) 역시 $\mathbb{R}^m$에 속한다. 이는 $A^T x = 0$에 의해 정의된다. 
-- 
+ 
 ### Orthogonality of column space and left null space 
 
 - 나머지 과정은 비슷하게 전개할 수 있다. 열 공간 $\mathcal{C}$의 정의는 다음과 같다. 
@@ -278,7 +278,7 @@ $$
 
 이제 행렬 A의 영 공간을 생각해보자. 영 공간이란 $A x = 0$을 만족시키는 $x$의 차원이다. 그런데, 앞서 $c$에 관계없이 $Ax_s = 0$을 만족해야 하므로 $A$의 영 공간은 1이 된다. 즉, 이를 만족시키는 해는 $x_s$ 하나 밖에 없다. 
 
-이제 앞서 본 4개의 근본 공간의 원리에 따라서 $A^T$는 3차원 공간의 한 벡터이므로 $A^T$의 랭크는 $3-1 = 2$가 된다. 그리고 $A^T$의 랭크와 $A$의 랭크는 같기 때문에 $A$의 랭크는 2가 된다. 
+이제 앞서 본 4개의 근본 공간의 원리에 따라서 $A^T$의 차원은 $(3 \times 4)$이고, $A$ $A^T$의 랭크는 $3-1 = 2$가 된다. 그리고 $A^T$의 랭크와 $A$의 랭크는 같기 때문에 $A$의 랭크는 2가 된다. 
 
 # Why? 
 
@@ -305,11 +305,11 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDExODI0MDEsLTE0NzcyOTMwMjksMT
-U1Nzk3OTY2NywxOTkxODI5MTE3LDEyNDg3NzY1OCwxMDk2NDg5
-NzkwLDE1MDQ4ODkyOTgsLTE1ODY4ODk3MDIsLTYwNzQxODQ5Mi
-wtNjk5MDIxOTkyLC03MjQ3MDY5ODMsMTAzODE1MjE3MiwtMTk4
-MzQ2MzU4NCwtNzE0MTIyNTg1LDQxNzIzMzk2NiwxNTk3MDY1Mz
-E4LC02NDk4MTYzNTgsMTQwNTE1MzgyMiwtODAwNDEyNjY5XX0=
+eyJoaXN0b3J5IjpbMTIxODY1MDM5MiwtMTQ3NzI5MzAyOSwxNT
+U3OTc5NjY3LDE5OTE4MjkxMTcsMTI0ODc3NjU4LDEwOTY0ODk3
+OTAsMTUwNDg4OTI5OCwtMTU4Njg4OTcwMiwtNjA3NDE4NDkyLC
+02OTkwMjE5OTIsLTcyNDcwNjk4MywxMDM4MTUyMTcyLC0xOTgz
+NDYzNTg0LC03MTQxMjI1ODUsNDE3MjMzOTY2LDE1OTcwNjUzMT
+gsLTY0OTgxNjM1OCwxNDA1MTUzODIyLC04MDA0MTI2NjldfQ==
 
 -->
