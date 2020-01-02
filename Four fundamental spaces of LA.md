@@ -50,7 +50,7 @@ $$
 
 ## Column picture 
 
-이제 이 문제를 컬럼으로 보자. 행렬을 열로 보면, $(2 \times 1)$ 벡터다. 이 벡터를 좌표로 나타나면 이제 $x$, $y$는 식의 방정식 우변의 벡터를 얻는 데 필요한 행렬의 두 행 벡터에 가중치를 부여하는 역할을 한다. 아래 그림을 보자. 
+이제 이 문제를 컬럼으로 보자. 행렬을 열로 보면, $(2 \times 1)$ 벡터다. 이 벡터를 좌표로 나타나면 이제 $x$, $y$는 식의 방정식 우변의 벡터를 얻는 데 필요한 행렬의 두 행 벡터에 가중치가 된다. 아래 그림을 보자. 
 
 <p align="center"><kbd>
   <img src="https://github.com/anarinsk/lie-4_spaces_LA/blob/master/assets/imgs/column-picture.png?raw=true" width="400">
@@ -58,9 +58,9 @@ $$
 
 ## Which of two? 
 
-둘 다 쓸모가 있는 관점이지만 열 공간으로 보는 관점이 몇 가지 점에서 수학적으로 좋다. 우선, 열 공간으로 보게 되면 계산에 동원되는 모든 대상들이 '벡터 공간'에 위치하게 된다. 벡터 공간은 반드시 $\boldsymbol{0}$을 포함해야 한다. 열 공간에서는 이게 가능하다. 투입과 산출이 모두 벡터로 표현되고 산출은 행렬을 구성하는 열 벡터의 선형 결합을 통해 표현된다. 이 선형 결합이 투입이 된다. 
+둘 다 쓸모가 있는 관점이지만 열 공간으로 보는 관점이 몇 가지 점에서 수학적으로 좋다. 우선, 열 공간으로 보게 되면 계산에 동원되는 모든 대상들이 '벡터 공간'에 위치하게 된다. 벡터 공간은 반드시 $\boldsymbol{0}$을 포함해야 한다. 열 공간에서는 이게 가능하다. 투입과 산출이 모두 벡터로 표현되고 산출은 행렬을 구성하는 열 벡터의 선형 결합을 통해 표현된다. 이 선형 결합이 일종의 투입이 된다. 
 
-그런데 행 공간의 관점에서는 이런 벡터 공간의 수학적인 표현과 결과를 활용하기 힘들다. 2차원 벡터까지는 평면에 도해할 수 있지만 3차원만 되도 애로사항이 슬슬 생긴다. 
+그런데 행 공간의 관점에서는 벡터 공간의 수학적인 표현과 그 결과를 활용하기 힘들다. 2차원 벡터까지는 평면에 도해할 수 있지만 3차원만 되도 보기에도 부담스러. 
 
 <p align="center"><kbd>
   <img src="https://saylordotorg.github.io/text_intermediate-algebra/section_06/7459f0f0ab8b4fef9fb707a49ccbc0ae.png
@@ -294,7 +294,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwNjE4NjExLDE1NTc5Nzk2NjcsMTk5MT
+eyJoaXN0b3J5IjpbMjg5NzQ0NTQ3LDE1NTc5Nzk2NjcsMTk5MT
 gyOTExNywxMjQ4Nzc2NTgsMTA5NjQ4OTc5MCwxNTA0ODg5Mjk4
 LC0xNTg2ODg5NzAyLC02MDc0MTg0OTIsLTY5OTAyMTk5MiwtNz
 I0NzA2OTgzLDEwMzgxNTIxNzIsLTE5ODM0NjM1ODQsLTcxNDEy
