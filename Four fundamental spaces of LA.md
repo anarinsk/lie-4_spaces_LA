@@ -267,7 +267,7 @@ c_1, c_2, -2c_2
 \end{bmatrix}.
 $$
 
-이제 행렬 A의 영 공간을 생각해보자. 영 공간이란 $A x = 0$을 만족시키는 $x$의 차원이다. 그런데, 앞서 $c$에 관계없이 $Ax_s = 0$을 만족해야 하므로 이를 만족하는 해 $x_s$는 
+이제 행렬 A의 영 공간을 생각해보자. 영 공간이란 $A x = 0$을 만족시키는 $x$의 차원이다. 그런데, 앞서 $c$에 관계없이 $Ax_s = 0$을 만족해야 하므로 $A$의 영 공간은 1이 된다. 그리고 4개의 근본 공간의 원리에 따라서 $A^T$의 컬럼 
 
 # Why? 
 
@@ -294,10 +294,10 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjYwOTQyLDEyNDg3NzY1OCwxMDk2ND
-g5NzkwLDE1MDQ4ODkyOTgsLTE1ODY4ODk3MDIsLTYwNzQxODQ5
-MiwtNjk5MDIxOTkyLC03MjQ3MDY5ODMsMTAzODE1MjE3MiwtMT
-k4MzQ2MzU4NCwtNzE0MTIyNTg1LDQxNzIzMzk2NiwxNTk3MDY1
-MzE4LC02NDk4MTYzNTgsMTQwNTE1MzgyMiwtODAwNDEyNjY5XX
-0=
+eyJoaXN0b3J5IjpbLTEzOTAyNTQ1NzMsMTI0ODc3NjU4LDEwOT
+Y0ODk3OTAsMTUwNDg4OTI5OCwtMTU4Njg4OTcwMiwtNjA3NDE4
+NDkyLC02OTkwMjE5OTIsLTcyNDcwNjk4MywxMDM4MTUyMTcyLC
+0xOTgzNDYzNTg0LC03MTQxMjI1ODUsNDE3MjMzOTY2LDE1OTcw
+NjUzMTgsLTY0OTgxNjM1OCwxNDA1MTUzODIyLC04MDA0MTI2Nj
+ldfQ==
 -->
