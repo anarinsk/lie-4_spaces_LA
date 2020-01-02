@@ -126,6 +126,7 @@ A =
 \begin{bmatrix}
 ~-& r_1^T & -~ \\
 ~- & \vdots & -~\\
+\vpham & 1 & 1\\
 ~- & r_m^T & -~
 \end{bmatrix} 
 $$
@@ -296,11 +297,11 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTQzNjM2NSwtMTQ3NzI5MzAyOSwxNT
-U3OTc5NjY3LDE5OTE4MjkxMTcsMTI0ODc3NjU4LDEwOTY0ODk3
-OTAsMTUwNDg4OTI5OCwtMTU4Njg4OTcwMiwtNjA3NDE4NDkyLC
-02OTkwMjE5OTIsLTcyNDcwNjk4MywxMDM4MTUyMTcyLC0xOTgz
-NDYzNTg0LC03MTQxMjI1ODUsNDE3MjMzOTY2LDE1OTcwNjUzMT
-gsLTY0OTgxNjM1OCwxNDA1MTUzODIyLC04MDA0MTI2NjldfQ==
+eyJoaXN0b3J5IjpbLTExNDE2MTM2MzEsLTE0NzcyOTMwMjksMT
+U1Nzk3OTY2NywxOTkxODI5MTE3LDEyNDg3NzY1OCwxMDk2NDg5
+NzkwLDE1MDQ4ODkyOTgsLTE1ODY4ODk3MDIsLTYwNzQxODQ5Mi
+wtNjk5MDIxOTkyLC03MjQ3MDY5ODMsMTAzODE1MjE3MiwtMTk4
+MzQ2MzU4NCwtNzE0MTIyNTg1LDQxNzIzMzk2NiwxNTk3MDY1Mz
+E4LC02NDk4MTYzNTgsMTQwNTE1MzgyMiwtODAwNDEyNjY5XX0=
 
 -->
