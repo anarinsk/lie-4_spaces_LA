@@ -39,7 +39,7 @@ $$
 
 ## Row picture 
 
-행으로 이해해보자. 이게 사실 우리에게 익숙한 방식이다. 이 차원 직선 두 개를 그리고 그 교점을 찾으면 되다. 이게 위 문제를 행으로 보는 관점이다. 아래 그림을 참고하자.[^1] (조교 분 모습을 가린 점은 양해 부탁) 
+행으로 이해해보자. 이게 우리에게 익숙한 방식이다. 이 차원 평면($x$--$y$ 평면)에 직선 두 개를 그리고 교점을 찾으면 되다. 이것이 위 문제를 행으로 보는 관점이다. 아래 그림을 참고하자.[^1] (조교 분 모습을 가린 점은 양해 부탁) 
 
 [^1]: 그림의 출처는 [여기](https://www.youtube.com/watch?v=My5w4MXWBew)
 
@@ -50,7 +50,7 @@ $$
 
 ## Column picture 
 
-이제 이 문제를 컬럼으로 보자. 행렬을 열로 보면, $(2 \times 1)$ 벡터다. 이 벡터를 좌표로 나타나면 이제 $x$, $y$는 식의 방정식 우변의 벡터를 얻는 데 필요한 두 행 벡터에 가중치를 부여하는 역할을 한다. 아래 그림을 보자. 
+이제 이 문제를 컬럼으로 보자. 행렬을 열로 보면, $(2 \times 1)$ 벡터다. 이 벡터를 좌표로 나타나면 이제 $x$, $y$는 식의 방정식 우변의 벡터를 얻는 데 필요한 행렬의 두 행 벡터에 가중치를 부여하는 역할을 한다. 아래 그림을 보자. 
 
 <p align="center"><kbd>
   <img src="https://github.com/anarinsk/lie-4_spaces_LA/blob/master/assets/imgs/column-picture.png?raw=true" width="400">
@@ -294,10 +294,10 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDc1MDY1NjUsMTU1Nzk3OTY2NywxOT
-kxODI5MTE3LDEyNDg3NzY1OCwxMDk2NDg5NzkwLDE1MDQ4ODky
-OTgsLTE1ODY4ODk3MDIsLTYwNzQxODQ5MiwtNjk5MDIxOTkyLC
-03MjQ3MDY5ODMsMTAzODE1MjE3MiwtMTk4MzQ2MzU4NCwtNzE0
-MTIyNTg1LDQxNzIzMzk2NiwxNTk3MDY1MzE4LC02NDk4MTYzNT
-gsMTQwNTE1MzgyMiwtODAwNDEyNjY5XX0=
+eyJoaXN0b3J5IjpbNzgwNjE4NjExLDE1NTc5Nzk2NjcsMTk5MT
+gyOTExNywxMjQ4Nzc2NTgsMTA5NjQ4OTc5MCwxNTA0ODg5Mjk4
+LC0xNTg2ODg5NzAyLC02MDc0MTg0OTIsLTY5OTAyMTk5MiwtNz
+I0NzA2OTgzLDEwMzgxNTIxNzIsLTE5ODM0NjM1ODQsLTcxNDEy
+MjU4NSw0MTcyMzM5NjYsMTU5NzA2NTMxOCwtNjQ5ODE2MzU4LD
+E0MDUxNTM4MjIsLTgwMDQxMjY2OV19
 -->
