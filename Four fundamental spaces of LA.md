@@ -6,7 +6,10 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 # Tales of Two Lines 
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Matrix_Rows.svg/510px-Matrix_Rows.svg.png
+<p align="center"><kbd>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Matrix_Rows.svg/510px-Matrix_Rows.svg.png" width="250">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Matrix_Columns.svg/510px-Matrix_Columns.svg.png" width="250">
+</kbd></p>
 
 행렬을 행 공간으로 이해하는 것과 열 공간으로 이해하는 것은 같은 해를 구하는 문제에서도 전혀 다른 함의를 지닌다.  예를 들어보자. 
 
@@ -226,7 +229,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxMjc0MjYzLDEwOTY0ODk3OTAsMTUwND
+eyJoaXN0b3J5IjpbMTI0ODc3NjU4LDEwOTY0ODk3OTAsMTUwND
 g4OTI5OCwtMTU4Njg4OTcwMiwtNjA3NDE4NDkyLC02OTkwMjE5
 OTIsLTcyNDcwNjk4MywxMDM4MTUyMTcyLC0xOTgzNDYzNTg0LC
 03MTQxMjI1ODUsNDE3MjMzOTY2LDE1OTcwNjUzMTgsLTY0OTgx
