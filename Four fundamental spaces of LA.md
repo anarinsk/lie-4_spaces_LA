@@ -298,18 +298,18 @@ $$
 
 1. 벡터의 방향을 돌린다 ($V^*$). 
 2. 특성값 행렬($\Sigma$)로 차원을 바꾸면서 좌표축의 크기를 조정한다.  
-3. 마지막으로 $U$를 통해서 차원을 바꿔준다. 
+3. 마지막으로 $U$를 통해서 벡터의 방향을 돌린다. 
 
 &nbsp;
 <br>
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDk4MjQ2NjQsLTkyMTIxMzc3MCwtMT
-Q3NzI5MzAyOSwxNTU3OTc5NjY3LDE5OTE4MjkxMTcsMTI0ODc3
-NjU4LDEwOTY0ODk3OTAsMTUwNDg4OTI5OCwtMTU4Njg4OTcwMi
-wtNjA3NDE4NDkyLC02OTkwMjE5OTIsLTcyNDcwNjk4MywxMDM4
-MTUyMTcyLC0xOTgzNDYzNTg0LC03MTQxMjI1ODUsNDE3MjMzOT
-Y2LDE1OTcwNjUzMTgsLTY0OTgxNjM1OCwxNDA1MTUzODIyLC04
-MDA0MTI2NjldfQ==
+eyJoaXN0b3J5IjpbLTE1MTY3MDQzNTcsLTE1NDk4MjQ2NjQsLT
+kyMTIxMzc3MCwtMTQ3NzI5MzAyOSwxNTU3OTc5NjY3LDE5OTE4
+MjkxMTcsMTI0ODc3NjU4LDEwOTY0ODk3OTAsMTUwNDg4OTI5OC
+wtMTU4Njg4OTcwMiwtNjA3NDE4NDkyLC02OTkwMjE5OTIsLTcy
+NDcwNjk4MywxMDM4MTUyMTcyLC0xOTgzNDYzNTg0LC03MTQxMj
+I1ODUsNDE3MjMzOTY2LDE1OTcwNjUzMTgsLTY0OTgxNjM1OCwx
+NDA1MTUzODIyXX0=
 -->
