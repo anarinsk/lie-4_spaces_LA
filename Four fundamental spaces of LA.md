@@ -82,7 +82,7 @@ $$
 \underset{(m \times n)}{A} \underset{(n \times 1)}{x} = \underset{(m \times 1)}{b}
 $$
 
-이때 투입은 $(n \times 1)$의 벡터 $x$ 다. 산출은 $(m \times 1)$의 벡터 $b$ 다. 이렇게 보면 행렬 $A$는 특정한 방식으로(선형의 방식으로) $x$를 차원이 다른 벡터 b로 변환한다. 이때 $A$의 경우 
+이렇게 보면 행렬 $A$는 특정한 방식으로(선형의 방식으로) $x$를 차원이 다른 벡터 b로 변환한다. 이때 $A$의 경우 
 
 $$
 A = 
@@ -305,11 +305,11 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTY3MDQzNTcsLTE1NDk4MjQ2NjQsLT
-kyMTIxMzc3MCwtMTQ3NzI5MzAyOSwxNTU3OTc5NjY3LDE5OTE4
-MjkxMTcsMTI0ODc3NjU4LDEwOTY0ODk3OTAsMTUwNDg4OTI5OC
-wtMTU4Njg4OTcwMiwtNjA3NDE4NDkyLC02OTkwMjE5OTIsLTcy
-NDcwNjk4MywxMDM4MTUyMTcyLC0xOTgzNDYzNTg0LC03MTQxMj
-I1ODUsNDE3MjMzOTY2LDE1OTcwNjUzMTgsLTY0OTgxNjM1OCwx
-NDA1MTUzODIyXX0=
+eyJoaXN0b3J5IjpbLTE1OTQ0NTE5ODksLTE1MTY3MDQzNTcsLT
+E1NDk4MjQ2NjQsLTkyMTIxMzc3MCwtMTQ3NzI5MzAyOSwxNTU3
+OTc5NjY3LDE5OTE4MjkxMTcsMTI0ODc3NjU4LDEwOTY0ODk3OT
+AsMTUwNDg4OTI5OCwtMTU4Njg4OTcwMiwtNjA3NDE4NDkyLC02
+OTkwMjE5OTIsLTcyNDcwNjk4MywxMDM4MTUyMTcyLC0xOTgzND
+YzNTg0LC03MTQxMjI1ODUsNDE3MjMzOTY2LDE1OTcwNjUzMTgs
+LTY0OTgxNjM1OF19
 -->
