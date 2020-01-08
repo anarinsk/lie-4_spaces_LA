@@ -109,9 +109,7 @@ $$
 
 # Big Picture of Linear Algebra 
 
-다시 강조하지만 기본적으로 행렬은 함수다. $A$는 투입 벡터 $x (\in {\mathbb R}^{n})$를 산출 벡터 $b(\in {\mathbb R}^{m})$로 바꾸는 역할을 한다. $A^T$는 투입벡터 $x' \in {\mathbb R}$
-
-이들 사이에 어떤 관계가 존재할까? 이를 나타내는 것이 길버트 스트랭(Gibert Strang) 선생이 말한 선형대수의 '큰 그림'이다. 아래 그림을 보자. 
+다시 강조하지만 기본적으로 행렬은 함수다. $A$는 투입 벡터 $x (\in {\mathbb R}^{n})$를 산출 벡터 $b(\in {\mathbb R}^{m})$로 바꾸는 역할을 한다. $A^T$는 투입벡터 $x' \in {\mathbb R}^m$을 산출벡터 $b' \in {\mathbb R}^n$으로 바꾼다. 이들 사이에 어떤 관계가 존재할까? 이를 나타내는 것이 길버트 스트랭(Gibert Strang) 선생이 말한 선형대수의 '큰 그림'이다. 아래 그림을 보자. 
 
 <p align="center"><kbd>
   <img src="https://i.stack.imgur.com/dfZND.png" width="450">
@@ -307,11 +305,11 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDA2NzgzNSwtMTc2MTM0NDE0NSwtMT
-UxNjcwNDM1NywtMTU0OTgyNDY2NCwtOTIxMjEzNzcwLC0xNDc3
-MjkzMDI5LDE1NTc5Nzk2NjcsMTk5MTgyOTExNywxMjQ4Nzc2NT
-gsMTA5NjQ4OTc5MCwxNTA0ODg5Mjk4LC0xNTg2ODg5NzAyLC02
-MDc0MTg0OTIsLTY5OTAyMTk5MiwtNzI0NzA2OTgzLDEwMzgxNT
-IxNzIsLTE5ODM0NjM1ODQsLTcxNDEyMjU4NSw0MTcyMzM5NjYs
-MTU5NzA2NTMxOF19
+eyJoaXN0b3J5IjpbLTIwODU1MjkyMDEsLTE3NjEzNDQxNDUsLT
+E1MTY3MDQzNTcsLTE1NDk4MjQ2NjQsLTkyMTIxMzc3MCwtMTQ3
+NzI5MzAyOSwxNTU3OTc5NjY3LDE5OTE4MjkxMTcsMTI0ODc3Nj
+U4LDEwOTY0ODk3OTAsMTUwNDg4OTI5OCwtMTU4Njg4OTcwMiwt
+NjA3NDE4NDkyLC02OTkwMjE5OTIsLTcyNDcwNjk4MywxMDM4MT
+UyMTcyLC0xOTgzNDYzNTg0LC03MTQxMjI1ODUsNDE3MjMzOTY2
+LDE1OTcwNjUzMThdfQ==
 -->
