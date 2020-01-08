@@ -151,7 +151,7 @@ $$
 
 그리고 그림에서 보듯이 다음과 같은 관계가 성립한다. 
 
-- $A x_r = \underset{(m \times 1)}{b_r}$
+- $A x_r = b_r (\in {\mathbb R}^m)$
 - $A x_n = \boldsymbol{0}_m$
 - $A (x_r + x_n) = b_r$
 - $x_r^T x_n = 0$
@@ -191,7 +191,7 @@ $$
 {x_c^T} x_n =  \sum_{i=1}^{n} \alpha_i (r_i^T x_n)  = 0
 $$
 
-- $A^T x_c = \underset{(n \times 1)}{b_r}$
+- $A^T x_c = b_c(\in {\mathbb R}^m)$
 - $A^T x_n = \boldsymbol{0}$
 - $A (x_c + x_n) = b_r$
 - $x_c^T x_n = 0$
@@ -305,7 +305,7 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDU5MjExMCwtMTc2MTM0NDE0NSwtMT
+eyJoaXN0b3J5IjpbLTUyNDI5MzE0MiwtMTc2MTM0NDE0NSwtMT
 UxNjcwNDM1NywtMTU0OTgyNDY2NCwtOTIxMjEzNzcwLC0xNDc3
 MjkzMDI5LDE1NTc5Nzk2NjcsMTk5MTgyOTExNywxMjQ4Nzc2NT
 gsMTA5NjQ4OTc5MCwxNTA0ODg5Mjk4LC0xNTg2ODg5NzAyLC02
