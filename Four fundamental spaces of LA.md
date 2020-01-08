@@ -151,12 +151,12 @@ $$
 
 그리고 그림에서 보듯이 다음과 같은 관계가 성립한다. 
 
-- $A x_r = \underset{(m \times 1)}{b_c}$
-- $A x_n = \boldsymbol{0}$
-- $A (x_r + x_n) = b_c$
+- $A x_r = \underset{(m \times 1)}{b_r}$
+- $A x_n = \boldsymbol{0}_m$
+- $A (x_r + x_n) = b_r$
 - $x_r^T x_n = 0$
 
-위 관계에서 $b_c$, $\boldsymbol{0}$는 모두 열 공간에 존재하는 벡터들이므로 $(m \times 1)$의 크기를 지닌다는 점에 유의하자. 
+위 관계에서 $b_r$, $\boldsymbol{0}$는 모두 열 공간에 존재하는 벡터들이므로 $(m \times 1)$의 크기를 지닌다는 점에 유의하자. 
 
 ## Column space 
 
@@ -305,11 +305,11 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODU1MjkyMDEsLTE3NjEzNDQxNDUsLT
-E1MTY3MDQzNTcsLTE1NDk4MjQ2NjQsLTkyMTIxMzc3MCwtMTQ3
-NzI5MzAyOSwxNTU3OTc5NjY3LDE5OTE4MjkxMTcsMTI0ODc3Nj
-U4LDEwOTY0ODk3OTAsMTUwNDg4OTI5OCwtMTU4Njg4OTcwMiwt
-NjA3NDE4NDkyLC02OTkwMjE5OTIsLTcyNDcwNjk4MywxMDM4MT
-UyMTcyLC0xOTgzNDYzNTg0LC03MTQxMjI1ODUsNDE3MjMzOTY2
-LDE1OTcwNjUzMThdfQ==
+eyJoaXN0b3J5IjpbLTgzNDU5MjExMCwtMTc2MTM0NDE0NSwtMT
+UxNjcwNDM1NywtMTU0OTgyNDY2NCwtOTIxMjEzNzcwLC0xNDc3
+MjkzMDI5LDE1NTc5Nzk2NjcsMTk5MTgyOTExNywxMjQ4Nzc2NT
+gsMTA5NjQ4OTc5MCwxNTA0ODg5Mjk4LC0xNTg2ODg5NzAyLC02
+MDc0MTg0OTIsLTY5OTAyMTk5MiwtNzI0NzA2OTgzLDEwMzgxNT
+IxNzIsLTE5ODM0NjM1ODQsLTcxNDEyMjU4NSw0MTcyMzM5NjYs
+MTU5NzA2NTMxOF19
 -->
