@@ -109,7 +109,7 @@ $$
 
 # Big Picture of Linear Algebra 
 
-다시 강조하지만 기본적으로 행렬은 함수다. 마찬가지로 $A^T$는 $(m \times 1)$ 투입 벡터를 $(n \times 1)$ 산출 벡터로 바꾸는 역할을 한다. 이들 사이에 어떤 관계가 존재할까? 이를 나타내는 것이 길버트 스트랭(Gibert Strang) 선생이 말한 선형대수의 '큰 그림'이다. 아래 그림을 보자. 
+다시 강조하지만 기본적으로 행렬은 함수다. 마찬가지로 $A^T(\in {\mathbb R}^{m})$는 투입 벡터 $x (\in {\mathbb R}^{n})es 1)$ 산출 벡터로 바꾸는 역할을 한다. 이들 사이에 어떤 관계가 존재할까? 이를 나타내는 것이 길버트 스트랭(Gibert Strang) 선생이 말한 선형대수의 '큰 그림'이다. 아래 그림을 보자. 
 
 <p align="center"><kbd>
   <img src="https://i.stack.imgur.com/dfZND.png" width="450">
@@ -305,11 +305,11 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQ0NTE5ODksLTE1MTY3MDQzNTcsLT
-E1NDk4MjQ2NjQsLTkyMTIxMzc3MCwtMTQ3NzI5MzAyOSwxNTU3
-OTc5NjY3LDE5OTE4MjkxMTcsMTI0ODc3NjU4LDEwOTY0ODk3OT
-AsMTUwNDg4OTI5OCwtMTU4Njg4OTcwMiwtNjA3NDE4NDkyLC02
-OTkwMjE5OTIsLTcyNDcwNjk4MywxMDM4MTUyMTcyLC0xOTgzND
-YzNTg0LC03MTQxMjI1ODUsNDE3MjMzOTY2LDE1OTcwNjUzMTgs
-LTY0OTgxNjM1OF19
+eyJoaXN0b3J5IjpbLTU1ODg1OTU2MywtMTUxNjcwNDM1NywtMT
+U0OTgyNDY2NCwtOTIxMjEzNzcwLC0xNDc3MjkzMDI5LDE1NTc5
+Nzk2NjcsMTk5MTgyOTExNywxMjQ4Nzc2NTgsMTA5NjQ4OTc5MC
+wxNTA0ODg5Mjk4LC0xNTg2ODg5NzAyLC02MDc0MTg0OTIsLTY5
+OTAyMTk5MiwtNzI0NzA2OTgzLDEwMzgxNTIxNzIsLTE5ODM0Nj
+M1ODQsLTcxNDEyMjU4NSw0MTcyMzM5NjYsMTU5NzA2NTMxOCwt
+NjQ5ODE2MzU4XX0=
 -->
