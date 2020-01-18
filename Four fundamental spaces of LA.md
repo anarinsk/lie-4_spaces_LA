@@ -39,7 +39,7 @@ $$
 
 ## Row picture 
 
-행으로 이해해보자. 이게 우리에게 익숙한 방식이다. 이 차원 평면($x$--$y$ 평면)에 직선 두 개를 그리고 교점을 찾으면 되다. 이것이 위 문제를 행으로 보는 관점이다. 아래 그림을 참고하자.[^1] (조교 분 모습을 가린 점은 양해 부탁) 
+행으로 이해해보자. 이게 우리에게 익숙한 방식이다. 이 차원 평면($x$--$y$ 평면)에 직선 두 개를 그리고 교점을 찾으면 되겠다. 이것이 문제를 행으로 보는 관점이다. 아래 그림을 참고하자.[^1] 
 
 [^1]: 그림의 출처는 [여기](https://www.youtube.com/watch?v=My5w4MXWBew)
 
@@ -60,7 +60,7 @@ $$
 
 둘 다 쓸모가 있는 관점이지만 열 공간으로 보는 관점이 몇 가지 점에서 수학적으로 좋다. 우선, 열 공간으로 보게 되면 계산에 동원되는 모든 대상들이 '벡터 공간'에 위치하게 된다. 벡터 공간은 반드시 $\boldsymbol{0}$을 포함해야 한다. 열 공간에서는 이게 가능하다. 투입과 산출이 모두 벡터로 표현되고 산출은 행렬을 구성하는 열 벡터의 선형 결합을 통해 표현된다. 이 선형 결합이 일종의 투입이 된다. 
 
-그런데 행 공간의 관점에서는 벡터 공간의 수학적인 표현과 그 결과를 활용하기 힘들다. 2차원 벡터까지는 평면에 도해할 수 있지만 3차원만 되도 보기에도 부담스럽다. 
+그런데 행 공간의 관점에서는 벡터 공간의 수학적인 표현과 그 결과를 활용하기 힘들다. 2차원 벡터까지는 평면에 도해할 수 있지만 3차원도 보기에 부담스럽다. 
 
 <p align="center"><kbd>
   <img src="https://saylordotorg.github.io/text_intermediate-algebra/section_06/7459f0f0ab8b4fef9fb707a49ccbc0ae.png
@@ -276,7 +276,7 @@ c_1, c_2, -2c_2
 \end{bmatrix}.
 $$
 
-이제 행렬 A의 영 공간을 생각해보자. 영 공간이란 $A x = 0$을 만족시키는 $x$의 차원이다. 그런데, 앞서 $c$에 관계없이 $Ax_s = 0$을 만족해야 하므로 $A$의 영 공간은 1이 된다. 즉, 이를 만족시키는 해는 $x_s$ 하나 밖에 없다. 
+이제 행렬 A의 영 공간을 생각해보자. 영 공간이란 $A x = 0$을 만족시키는 $x$의 차원이다. 그런데, 앞서 $c$에 관계없이 $Ax_s = 0$을 만족해야 하므로 $A$의 영 공간의  1이 된다. 즉, 이를 만족시키는 해는 $x_s$ 하나 밖에 없다. 
 
 이제 앞서 본 4개의 근본 공간의 원리에 따라서 $A^T \in {\mathbb R}^{3 \times 4}$이고, $A^T$는 열 벡터 $a_i(\in {\mathbb R}^3)$의 선형 결합이다. 따라서 $A^T$의 랭크는 $3-1 = 2$가 된다. 그리고 $A^T$의 랭크와 $A$의 랭크는 같기 때문에 $A$의 랭크는 2가 된다. 
 
@@ -305,11 +305,11 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5NDc0ODQ5LC0xNzYxMzQ0MTQ1LC0xNT
-E2NzA0MzU3LC0xNTQ5ODI0NjY0LC05MjEyMTM3NzAsLTE0Nzcy
-OTMwMjksMTU1Nzk3OTY2NywxOTkxODI5MTE3LDEyNDg3NzY1OC
-wxMDk2NDg5NzkwLDE1MDQ4ODkyOTgsLTE1ODY4ODk3MDIsLTYw
-NzQxODQ5MiwtNjk5MDIxOTkyLC03MjQ3MDY5ODMsMTAzODE1Mj
-E3MiwtMTk4MzQ2MzU4NCwtNzE0MTIyNTg1LDQxNzIzMzk2Niwx
-NTk3MDY1MzE4XX0=
+eyJoaXN0b3J5IjpbLTEyNzM5NzE0NDEsODU5NDc0ODQ5LC0xNz
+YxMzQ0MTQ1LC0xNTE2NzA0MzU3LC0xNTQ5ODI0NjY0LC05MjEy
+MTM3NzAsLTE0NzcyOTMwMjksMTU1Nzk3OTY2NywxOTkxODI5MT
+E3LDEyNDg3NzY1OCwxMDk2NDg5NzkwLDE1MDQ4ODkyOTgsLTE1
+ODY4ODk3MDIsLTYwNzQxODQ5MiwtNjk5MDIxOTkyLC03MjQ3MD
+Y5ODMsMTAzODE1MjE3MiwtMTk4MzQ2MzU4NCwtNzE0MTIyNTg1
+LDQxNzIzMzk2Nl19
 -->
