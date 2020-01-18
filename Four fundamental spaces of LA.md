@@ -278,11 +278,11 @@ $$
 
 이제 행렬 $A$의 영 공간을 생각해보자. 영 공간이란 $A x = 0$을 만족하는 $x$로 이루어진 벡터 공간이다. $c$에 관계없이 $Ax_s = 0$을 만족해야 한다. 따라서 이를 만족하는 해는 $x_s$ 하나 밖에 없다. 
 
-이제 앞서 본 4개의 근본 공간의 원리에 따라서 $A^T \in {\mathbb R}^{3 \times 4}$이고, $A^T$는 열 벡터 $a_i(\in {\mathbb R}^3)$로 구성된다. 따라서 $A^T$의 랭크는 $3-1 = 2$가 된다. 그리고 $A^T$의 랭크와 $A$의 랭크는 같기 때문에 $A$의 랭크는 2가 된다. 
+이제 앞서 본 4개의 근본 공간의 원리에 따라서 $A^T \in {\mathbb R}^{3 \times 4}$이고, $A^T$는 열 벡터 $a_i(\in {\mathbb R}^3)$로 구성된다. 따라서 $A^T$의 위수는 $3-1 = 2$가 된다. 그리고 $A^T$의 위수와 $A$의 위수는 같기 때문에 $A$의 위수 역시 2이다. 
 
 # Why? 
 
-이 네 개의 스페이스가 맺고 있는 관련성은 그 자체만으로도 중요하고 흥미로운 것이지만, 이를 통해 이른바 SVD(Singluar Value Decomposition)을 달성할 수 있다. 만일 위에서 보듯이 $A$의 열 공간과 $A^T$의 열 공간이 같은 랭크를 지니지 않는다면 이런 분해는 불가능하다. 
+이 네 개의 스페이스가 맺고 있는 관련성은 그 자체만으로도 중요하고 흥미로운 것이지만, 이를 통해 이른바 SVD(Singluar Value Decomposition)을 달성할 수 있다. 만일 위에서 보듯이 $A$의 열 공간과 $A^T$의 열 공간이 같은 위수를 지니지 않는다면 이런 분해는 불가능하다. 
 
 <p align="center"><kbd>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Singular_value_decomposition_visualisation.svg/1920px-Singular_value_decomposition_visualisation.svg.png" width="350">
@@ -305,11 +305,11 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTY1MDU5MywtODI4MzAwMTgyLC03OD
-I4NzYyMTMsNzEyOTUwNDM2LDE2NDA5NjQyMTgsODU5NDc0ODQ5
-LC0xNzYxMzQ0MTQ1LC0xNTE2NzA0MzU3LC0xNTQ5ODI0NjY0LC
-05MjEyMTM3NzAsLTE0NzcyOTMwMjksMTU1Nzk3OTY2NywxOTkx
-ODI5MTE3LDEyNDg3NzY1OCwxMDk2NDg5NzkwLDE1MDQ4ODkyOT
-gsLTE1ODY4ODk3MDIsLTYwNzQxODQ5MiwtNjk5MDIxOTkyLC03
-MjQ3MDY5ODNdfQ==
+eyJoaXN0b3J5IjpbLTE4MzgyOTU5NTMsMTIzOTY1MDU5MywtOD
+I4MzAwMTgyLC03ODI4NzYyMTMsNzEyOTUwNDM2LDE2NDA5NjQy
+MTgsODU5NDc0ODQ5LC0xNzYxMzQ0MTQ1LC0xNTE2NzA0MzU3LC
+0xNTQ5ODI0NjY0LC05MjEyMTM3NzAsLTE0NzcyOTMwMjksMTU1
+Nzk3OTY2NywxOTkxODI5MTE3LDEyNDg3NzY1OCwxMDk2NDg5Nz
+kwLDE1MDQ4ODkyOTgsLTE1ODY4ODk3MDIsLTYwNzQxODQ5Miwt
+Njk5MDIxOTkyXX0=
 -->
