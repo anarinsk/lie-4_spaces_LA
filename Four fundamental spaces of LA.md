@@ -276,7 +276,7 @@ c_1, c_2, -2c_2
 \end{bmatrix}.
 $$
 
-이제 행렬 A의 영 공간을 생각해보자. 영 공간이란 $A x = 0$을 만족시키는 $x$의 차원이다. 그런데, 앞서 $c$에 관계없이 $Ax_s = 0$을 만족해야 하므로 $A$의 영 공간의  1이 된다. 즉, 이를 만족시키는 해는 $x_s$ 하나 밖에 없다. 
+이제 행렬 A의 영 공간을 생각해보자. 영 공간이란 $A x = 0$을 만족시키는 $x$의 차원이다. 그런데, 앞서 $c$에 관계없이 $Ax_s = 0$을 만족해야 하므로. 이를 만족시키는 해는 $x_s$ 하나 밖에 없다. 
 
 이제 앞서 본 4개의 근본 공간의 원리에 따라서 $A^T \in {\mathbb R}^{3 \times 4}$이고, $A^T$는 열 벡터 $a_i(\in {\mathbb R}^3)$의 선형 결합이다. 따라서 $A^T$의 랭크는 $3-1 = 2$가 된다. 그리고 $A^T$의 랭크와 $A$의 랭크는 같기 때문에 $A$의 랭크는 2가 된다. 
 
@@ -305,11 +305,11 @@ $$
 <br>
  :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzM5NzE0NDEsODU5NDc0ODQ5LC0xNz
-YxMzQ0MTQ1LC0xNTE2NzA0MzU3LC0xNTQ5ODI0NjY0LC05MjEy
-MTM3NzAsLTE0NzcyOTMwMjksMTU1Nzk3OTY2NywxOTkxODI5MT
-E3LDEyNDg3NzY1OCwxMDk2NDg5NzkwLDE1MDQ4ODkyOTgsLTE1
-ODY4ODk3MDIsLTYwNzQxODQ5MiwtNjk5MDIxOTkyLC03MjQ3MD
-Y5ODMsMTAzODE1MjE3MiwtMTk4MzQ2MzU4NCwtNzE0MTIyNTg1
-LDQxNzIzMzk2Nl19
+eyJoaXN0b3J5IjpbMTY0MDk2NDIxOCw4NTk0NzQ4NDksLTE3Nj
+EzNDQxNDUsLTE1MTY3MDQzNTcsLTE1NDk4MjQ2NjQsLTkyMTIx
+Mzc3MCwtMTQ3NzI5MzAyOSwxNTU3OTc5NjY3LDE5OTE4MjkxMT
+csMTI0ODc3NjU4LDEwOTY0ODk3OTAsMTUwNDg4OTI5OCwtMTU4
+Njg4OTcwMiwtNjA3NDE4NDkyLC02OTkwMjE5OTIsLTcyNDcwNj
+k4MywxMDM4MTUyMTcyLC0xOTgzNDYzNTg0LC03MTQxMjI1ODUs
+NDE3MjMzOTY2XX0=
 -->
